@@ -26,6 +26,6 @@ We head back to the main room and check for any more hidden doors. We find one i
 
 The staircase leads to a natural cave in the cliff. There's well trodden paths here and a scattering of naval detritus, but the tracks avoid two conspicuous areas that have been avoided. [[Acheron]] recognises the green slime on the roof as carnivorous and we avoid it.
 
-[[Aurora]] gets pelted with arrows and has to fly back to the party!
+[[Aurora]] gets pelted with arrows and has to fly back to the party! We discuss a plan but they're waiting for us when we leave the staircase and a fight breaks out.
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
