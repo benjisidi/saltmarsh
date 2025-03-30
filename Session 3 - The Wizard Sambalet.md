@@ -43,9 +43,7 @@ The two surviving members of the party head to the tower to talk to Keledek. He 
 [[Tiresias]] hears [[Keledek the Unspoken]] talking to the party, and when he refuses to spare anyone for the adventure, climbs out the window to go and join his cousin.
 # Hiring Friends
 [[Agevea]] hires [[Sir Thomas Reynold]], a local hedge knight, to help in assaulting the house. They agree on pay of 50gp and head to bed to prepare for the fight tomorrow.
-# It's a trap!
-We all get in a boat and approach [[Bracksmore]]. We signal our arrival and everything seems fine, but when we dock the guard is acting very suspiciously. We're not sure what, but something is definitely off. It becomes clear they've been expecting us! 
-
-
+# It's a Trap!
+We all get in a boat and approach [[Bracksmore]]. We signal our arrival and everything seems fine, but when we dock the guard is acting very suspiciously. We're not sure what, but something is definitely off. It becomes clear they've been expecting us!
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
