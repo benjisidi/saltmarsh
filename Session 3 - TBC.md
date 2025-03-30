@@ -24,6 +24,8 @@ In the hidden room is the
 # The Stairs Down
 We head back to the main room and check for any more hidden doors. We find one in a corner and it reveals a staircase heading downwards, even deeper into the cliff beneath the manor.
 
-The staircase leads to a natural cave in the cliff. There's well trodden paths here and 
+The staircase leads to a natural cave in the cliff. There's well trodden paths here and a scattering of naval detritus, but the tracks avoid two conspicuous areas that have been avoided. [[Acheron]] recognises the green slime on the roof as carnivorous and we avoid it.
+
+[[Aurora]] gets pelted with arrows and has to fly back to the party!
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
