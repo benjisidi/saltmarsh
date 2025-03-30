@@ -82,30 +82,6 @@
                   "icon": "lucide-file",
                   "title": "Tiresias"
                 }
-              },
-              {
-                "id": "ec92283a300cf46f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session 0 - The Gang Gets Together.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 0 - The Gang Gets Together"
-                }
               }
             ]
           },
@@ -234,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766
+    "width": 329.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -329,15 +306,15 @@
   },
   "active": "ad43f94ad50dc616",
   "lastOpenFiles": [
-    "The Snapping Line.md",
-    "Session 1 - Big Scary House.md",
+    "Keledek the Unspoken.md",
+    "Tiresias.md",
     "Session 0 - The Gang Gets Together.md",
     "Session 3 - The Wizard Sambalet.md",
-    "Keledek the Unspoken.md",
+    "The Snapping Line.md",
+    "Session 1 - Big Scary House.md",
     "Keledek Tower.md",
     "Bag of Holding + Slush Fund.md",
     "Tiresias' Inventory.md",
-    "Tiresias.md",
     "Acheron's Inventory.md",
     "Ye Secret of Ye Philosopher's Stone.md",
     "templates/session template.md",
