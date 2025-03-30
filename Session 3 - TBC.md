@@ -38,6 +38,6 @@ The two return to [[Elander Fireborn]] and describe what happened in [[Bracksmor
 # Keledek Tower
 The two surviving members of the party head to the tower to talk to Keledek. He tells them he doesn't do adventure and doesn't leave his tower for the likes of *this*. It turns out he's racist (calls [[Agevea]] a beast).
 
-[[Tiresias]] hears [[Keledek the Unspoken]]  
+[[Tiresias]] hears [[Keledek the Unspoken]] talking to the party, and when he refuses to spare anyone for the adventure, climbs out the window to go and join his cousin. 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
