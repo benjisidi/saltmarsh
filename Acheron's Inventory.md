@@ -1,3 +1,4 @@
+# Rucksack
 - [Hunting Trap](https://2014.5e.tools/items.html#hunting%20trap_phb)
 - 2x [Healer's Kit](https://2014.5e.tools/items.html#healer's%20kit_phb)
 - 4x Necromancer's golden ribs engraved with runes (5gp ea)
