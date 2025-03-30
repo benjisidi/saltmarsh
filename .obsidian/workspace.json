@@ -32,6 +32,37 @@
             }
           },
           {
+            "id": "405c5e8c49c8db81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slush Fund.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Slush Fund"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "619bce12375a15d4",
+        "type": "tabs",
+        "children": [
+          {
             "id": "19f046eae06a49c7",
             "type": "leaf",
             "state": {
@@ -55,8 +86,7 @@
               "title": "Acheron's Inventory"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +236,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19f046eae06a49c7",
+  "active": "405c5e8c49c8db81",
   "lastOpenFiles": [
+    "Ye Secret of Ye Philosopher's Stone.md",
     "Session 3 - TBC.md",
     "Acheron's Inventory.md",
     "Session 1 - Big Scary House.md",
@@ -233,7 +264,6 @@
     "Eamon.md",
     "Brink.md",
     "Session 1 - The Meteorite Mystery.md",
-    "templates",
-    "Session 12 - \"How Tall Are They?\".md"
+    "templates"
   ]
 }
