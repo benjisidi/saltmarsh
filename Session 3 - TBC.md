@@ -1,4 +1,6 @@
 Created Date: 2025/03/30
+#session-notes
+#quest-bracksmore
 # [[Bracksmore]] Cellar
 We open the danger door (*obviously*) and there's skeletons inside (oh no!). They're being held together with brass wire and pins, clearly been constructed.
 While we're fighting them, the back wall is lit by blue flames a mysterious figure emerges from a hidden door! They're also a skeleton, but have ghostly spirit-like skin and hair overlaid over the top. They throw acid pellets at us, we reckon they're the old alchemist!
@@ -33,5 +35,6 @@ Acheron is killed by [[The Wizard Sambalet]] during the following melee. [[Ageve
 [[Kolinth]] writes an epic tale about [[Acheron]] and [[Agevea]]'s life and death, and Agevea arrives in the pub while he's telling the story. Agevea teaches Kolinth the value of patience. They claim Acheron's house for their own.
 
 The two return to [[Elander Fireborn]] and describe what happened in [[Bracksmore]]. Elander tells them if they want to know more about the necromantic objects, they should go and talk to [[Keledek the Unspoken]].
+# Keledek Tower
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading

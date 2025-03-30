@@ -36,6 +36,30 @@
                 }
               },
               {
+                "id": "aac48b4e79ca605d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Keledek Tower.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Keledek Tower"
+                }
+              },
+              {
                 "id": "8cf1fbb588f32c1d",
                 "type": "leaf",
                 "state": {
@@ -83,7 +107,8 @@
                   "title": "Session 0 - The Gang Gets Together"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "617dd6055f56c41f",
@@ -305,14 +330,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad43f94ad50dc616",
+  "active": "aac48b4e79ca605d",
   "lastOpenFiles": [
-    "Tiresias' Inventory.md",
+    "Keledek Tower.md",
     "Session 3 - TBC.md",
+    "Bag of Holding + Slush Fund.md",
+    "Tiresias' Inventory.md",
+    "Keledek the Unspoken.md",
     "Tiresias.md",
     "Session 0 - The Gang Gets Together.md",
     "Acheron's Inventory.md",
-    "Bag of Holding + Slush Fund.md",
     "Ye Secret of Ye Philosopher's Stone.md",
     "Session 1 - Big Scary House.md",
     "The Snapping Line.md",
@@ -331,8 +358,6 @@
     "The Panther.md",
     "The Twisted Tankard.md",
     "The Diamond Devil.md",
-    "Lugland.md",
-    "Lysander Lightfoot.md",
     "templates"
   ]
 }
