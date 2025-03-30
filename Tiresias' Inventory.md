@@ -7,4 +7,3 @@
 - a small knife.
 - quarterstaff
 - component pouch
-- 

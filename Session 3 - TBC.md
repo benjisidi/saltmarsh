@@ -32,6 +32,6 @@ Acheron is killed by [[The Wizard Sambalet]] during the following melee. [[Ageve
 # Back in Saltmarsh
 [[Kolinth]] writes an epic tale about [[Acheron]] and [[Agevea]]'s life and death, and Agevea arrives in the pub while he's telling the story. Agevea teaches Kolinth the value of patience. They claim Acheron's house for their own.
 
-The two return to [[Elander Fireborn]] and describe what happened in [[Bracksmore]].
+The two return to [[Elander Fireborn]] and describe what happened in [[Bracksmore]]. Elander tells them if they want to know more about the necromantic objects, they should go and talk to [[Keledek the Unspoken]].
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading

@@ -36,6 +36,30 @@
                 }
               },
               {
+                "id": "8cf1fbb588f32c1d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tiresias.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tiresias"
+                }
+              },
+              {
                 "id": "ec92283a300cf46f",
                 "type": "leaf",
                 "state": {
@@ -281,11 +305,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d71de100e0a3fcd",
+  "active": "ad43f94ad50dc616",
   "lastOpenFiles": [
-    "Session 3 - TBC.md",
-    "Session 0 - The Gang Gets Together.md",
     "Tiresias' Inventory.md",
+    "Session 3 - TBC.md",
+    "Tiresias.md",
+    "Session 0 - The Gang Gets Together.md",
     "Acheron's Inventory.md",
     "Bag of Holding + Slush Fund.md",
     "Ye Secret of Ye Philosopher's Stone.md",
@@ -308,7 +333,6 @@
     "The Diamond Devil.md",
     "Lugland.md",
     "Lysander Lightfoot.md",
-    "Mayor Eret.md",
     "templates"
   ]
 }
