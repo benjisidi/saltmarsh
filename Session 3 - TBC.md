@@ -5,6 +5,6 @@ While we're fighting them, the back wall is lit by blue flames a mysterious figu
 
 We destroy the skeletons and the alchemist. ([[Agevea]] cuts his head in half at the mouth). As he dies, the spirit disappears and the bones turn to dust.
 
-
+Each skeleton had a golden rib bone with runes on it. The runes
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
