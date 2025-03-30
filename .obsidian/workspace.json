@@ -30,63 +30,75 @@
               "icon": "lucide-file",
               "title": "Session 3 - TBC"
             }
-          },
-          {
-            "id": "405c5e8c49c8db81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slush Fund.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Slush Fund"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "619bce12375a15d4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "19f046eae06a49c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Acheron's Inventory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Acheron's Inventory"
-            }
           }
         ]
+      },
+      {
+        "id": "a8c3bd2761afe736",
+        "type": "split",
+        "children": [
+          {
+            "id": "619bce12375a15d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "19f046eae06a49c7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Acheron's Inventory.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Acheron's Inventory"
+                }
+              }
+            ]
+          },
+          {
+            "id": "7f351fe7f7ba00ca",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "405c5e8c49c8db81",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bag of Holding + Slush Fund.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Bag of Holding + Slush Fund"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -143,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766
+    "width": 329.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -236,10 +249,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "405c5e8c49c8db81",
+  "active": "ad43f94ad50dc616",
   "lastOpenFiles": [
-    "Ye Secret of Ye Philosopher's Stone.md",
+    "Bag of Holding + Slush Fund.md",
     "Session 3 - TBC.md",
+    "Ye Secret of Ye Philosopher's Stone.md",
     "Acheron's Inventory.md",
     "Session 1 - Big Scary House.md",
     "The Snapping Line.md",
@@ -263,7 +277,6 @@
     "Mayor Eret.md",
     "Eamon.md",
     "Brink.md",
-    "Session 1 - The Meteorite Mystery.md",
     "templates"
   ]
 }

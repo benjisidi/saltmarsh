@@ -5,9 +5,9 @@ While we're fighting them, the back wall is lit by blue flames a mysterious figu
 
 We destroy the skeletons and the alchemist. ([[Agevea]] cuts his head in half at the mouth). As he dies, the spirit disappears and the bones turn to dust.
 
-Each skeleton had a golden rib bone with runes on it. The runes on the
+Each skeleton had a golden rib bone with runes on it. The runes on them contain the necromantic spell that was binding their souls here from the spirit
 
-The alchemist
+The alchemist was wearing a bag of holding and carrying a small pebble engraved with tiny golden lines. We're not sure what it is for.
 
 In the hidden room is the
 - A book called [[Ye Secret of Ye Philosopher's Stone]]
