@@ -28,16 +28,20 @@ We head back to the main room and check for any more hidden doors. We find one i
 
 The staircase leads to a natural cave in the cliff. There's well trodden paths here and a scattering of naval detritus, but the tracks avoid two conspicuous areas that have been avoided. [[Acheron]] recognises the green slime on the roof as carnivorous and we avoid it.
 
-[[Aurora]] gets pelted with arrows and has to fly back to the party! We discuss a plan but they're waiting for us when we leave the staircase and a fight breaks out. We catch sight of some more [[Sea Princes]] and a heavily armoured hobgoblin. They're being led by a tall thin man wearing a floppy pointed hat - his voice seems to match the *WELCOME TO HELL* we heard in [[Session 1]]. He's [[The Wizard Sambalet]].
+[[Aurora]] gets pelted with arrows and has to fly back to the party! We discuss a plan but they're waiting for us when we leave the staircase and a fight breaks out. We catch sight of some more [[Sea Princes]] and a heavily armoured hobgoblin. They're being led by a tall thin man wearing a floppy pointed hat - his voice seems to match the *WELCOME TO HELL* we heard in [[Session 1 - Big Scary House]]. He's [[The Wizard Sambalet]].
 
 Acheron is killed by [[The Wizard Sambalet]] during the following melee. [[Agevea]] escapes by diving off the cliff and [[Kolinth]] charms the guard to get rid of his body and runs away.
 # Back in Saltmarsh
 [[Kolinth]] writes an epic tale about [[Acheron]] and [[Agevea]]'s life and death, and Agevea arrives in the pub while he's telling the story. Agevea teaches Kolinth the value of patience. They claim Acheron's house for their own.
 
 The two return to [[Elander Fireborn]] and describe what happened in [[Bracksmore]]. Elander tells them if they want to know more about the necromantic objects, they should go and talk to [[Keledek the Unspoken]].
+
+He also says if the party clear out the house of Sea Princes, they can use the code book they found to lure more Sea Princes into a trap.
 # Keledek Tower
 The two surviving members of the party head to the tower to talk to Keledek. He tells them he doesn't do adventure and doesn't leave his tower for the likes of *this*. It turns out he's racist (calls [[Agevea]] a beast).
 
-[[Tiresias]] hears [[Keledek the Unspoken]] talking to the party, and when he refuses to spare anyone for the adventure, climbs out the window to go and join his cousin. 
+[[Tiresias]] hears [[Keledek the Unspoken]] talking to the party, and when he refuses to spare anyone for the adventure, climbs out the window to go and join his cousin.
+# Hiring Friends
+[[Agevea]] hires [[Sir Thomas Reynold]], a local hedge knight, to help in assaulting the house.
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading

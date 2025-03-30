@@ -1,3 +1,6 @@
+Created Date: 2025/02/05
+#session-notes
+#quest-bracksmore
 # [[The Snapping Line]]
 We spot [[Eda Owland]] in the pub and decide to see what she knows about [[Bracksmore]]. She says there have been other reports of screams and eerie lights coming from the house, but doesn't have any more concrete information, other than the fact that an adventurer went missing there a few weeks ago. She also mentions that things with the [[Lizardfolk]] are ratcheting up (more recruitment into the town guard, increased Lizardfolk sightings near the town, etc).
 

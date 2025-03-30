@@ -1,4 +1,6 @@
-2025-01-25
+Created Date: 2025/01/25
+#session-notes
+#quest-bracksmore
 # Our Protagonists Assemble
 We begin our adventure with [[Acheron]] talking to [[Kolinth]] on his barge. Acheron has been regaling Kolinth with stories of his past, and talk turns to the recent reports of sounds and lights coming from [[Bracksmore]], a long-abandoned house in town.
 

@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session 3 - TBC.md",
+                    "file": "Session 3 - The Wizard Sambalet.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -32,7 +32,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Session 3 - TBC"
+                  "title": "Session 3 - The Wizard Sambalet"
                 }
               },
               {
@@ -230,13 +230,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766,
-    "collapsed": true
+    "width": 329.50418853759766
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -331,17 +329,17 @@
   },
   "active": "ad43f94ad50dc616",
   "lastOpenFiles": [
+    "The Snapping Line.md",
+    "Session 1 - Big Scary House.md",
+    "Session 0 - The Gang Gets Together.md",
+    "Session 3 - The Wizard Sambalet.md",
     "Keledek the Unspoken.md",
     "Keledek Tower.md",
-    "Session 3 - TBC.md",
     "Bag of Holding + Slush Fund.md",
     "Tiresias' Inventory.md",
     "Tiresias.md",
-    "Session 0 - The Gang Gets Together.md",
     "Acheron's Inventory.md",
     "Ye Secret of Ye Philosopher's Stone.md",
-    "Session 1 - Big Scary House.md",
-    "The Snapping Line.md",
     "templates/session template.md",
     "templates/item template.md",
     "templates/location template.md",
