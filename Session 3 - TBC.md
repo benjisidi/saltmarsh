@@ -1,5 +1,4 @@
 Created Date: 2025/03/30
-# The First Entry
-Put some info here!
+# [[Bracksmore]] Cellar
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
