@@ -5,3 +5,6 @@
 - 10 [sheets of parchment](https://2014.5e.tools/items.html#parchment%20\(one%20sheet\)_phb)
 - a little bag of sand
 - a small knife.
+- quarterstaff
+- component pouch
+- 

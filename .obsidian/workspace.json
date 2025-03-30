@@ -41,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session 0 -.md",
+                    "file": "Session 0 - The Gang Gets Together.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -56,11 +56,10 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Session 0 -"
+                  "title": "Session 0 - The Gang Gets Together"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "617dd6055f56c41f",
@@ -183,11 +182,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766
+    "width": 329.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -280,10 +281,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec92283a300cf46f",
+  "active": "9d71de100e0a3fcd",
   "lastOpenFiles": [
     "Session 3 - TBC.md",
-    "Session 0 -.md",
+    "Session 0 - The Gang Gets Together.md",
     "Tiresias' Inventory.md",
     "Acheron's Inventory.md",
     "Bag of Holding + Slush Fund.md",
