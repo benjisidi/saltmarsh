@@ -30,5 +30,6 @@ The staircase leads to a natural cave in the cliff. There's well trodden paths h
 
 Acheron is killed by [[The Wizard Sambalet]] during the following melee. [[Agevea]] escapes by diving off the cliff and [[Kolinth]] charms the guard to get rid of his body and runs away.
 # Back in Saltmarsh
+[[Kolinth]] writes an epic tale about [[Acheron]] and [[Agevea]]'s life and death, and Agevea arrives in the pub while he's telling the story. Agevea teaches Kolinth the value of patie
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
