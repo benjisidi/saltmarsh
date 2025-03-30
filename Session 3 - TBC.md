@@ -29,8 +29,6 @@ The staircase leads to a natural cave in the cliff. There's well trodden paths h
 [[Aurora]] gets pelted with arrows and has to fly back to the party! We discuss a plan but they're waiting for us when we leave the staircase and a fight breaks out. We catch sight of some more [[Sea Princes]] and a heavily armoured hobgoblin. They're being led by a tall thin man wearing a floppy pointed hat - his voice seems to match the *WELCOME TO HELL* we heard in [[Session 1]]. He's [[The Wizard Sambalet]].
 
 Acheron is killed by [[The Wizard Sambalet]] during the following melee. [[Agevea]] escapes by diving off the cliff and [[Kolinth]] charms the guard to get rid of his body and runs away.
-
 # Back in Saltmarsh
-
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
