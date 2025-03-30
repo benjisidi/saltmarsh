@@ -4,7 +4,7 @@ tags:
 ---
 # Description
 ## Appearance
-Clothing, race, sex, etc
+Human, dark features, clean shaven, bald. Striking copper coloured eyes. Dressed plainly but richly.
 ## Persona
 Who are they?
 # Location

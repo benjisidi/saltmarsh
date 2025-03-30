@@ -36,5 +36,8 @@ Acheron is killed by [[The Wizard Sambalet]] during the following melee. [[Ageve
 
 The two return to [[Elander Fireborn]] and describe what happened in [[Bracksmore]]. Elander tells them if they want to know more about the necromantic objects, they should go and talk to [[Keledek the Unspoken]].
 # Keledek Tower
+The two surviving members of the party head to the tower to talk to Keledek. He tells them he doesn't do adventure and doesn't leave his tower for the likes of *this*. It turns out he's racist (calls [[Agevea]] a beast).
+
+[[Tiresias]] hears [[Keledek the Unspoken]]  
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading

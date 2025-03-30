@@ -41,7 +41,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Keledek Tower.md",
+                    "file": "Keledek the Unspoken.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -56,7 +56,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "Keledek Tower"
+                  "title": "Keledek the Unspoken"
                 }
               },
               {
@@ -107,8 +107,7 @@
                   "title": "Session 0 - The Gang Gets Together"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "617dd6055f56c41f",
@@ -330,13 +329,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aac48b4e79ca605d",
+  "active": "ad43f94ad50dc616",
   "lastOpenFiles": [
+    "Keledek the Unspoken.md",
     "Keledek Tower.md",
     "Session 3 - TBC.md",
     "Bag of Holding + Slush Fund.md",
     "Tiresias' Inventory.md",
-    "Keledek the Unspoken.md",
     "Tiresias.md",
     "Session 0 - The Gang Gets Together.md",
     "Acheron's Inventory.md",
