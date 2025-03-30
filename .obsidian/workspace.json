@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 1 - Big Scary House.md",
+                "file": "Session 3 - TBC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 1 - Big Scary House"
+              "title": "Session 3 - TBC"
             }
           },
           {
@@ -207,8 +207,8 @@
   },
   "active": "ad43f94ad50dc616",
   "lastOpenFiles": [
-    "Session 3 - TBC.md",
     "Session 1 - Big Scary House.md",
+    "Session 3 - TBC.md",
     "The Snapping Line.md",
     "templates/session template.md",
     "templates/item template.md",
