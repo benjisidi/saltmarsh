@@ -2,7 +2,6 @@
 - 2x [Healer's Kit](https://2014.5e.tools/items.html#healer's%20kit_phb)
 - 4x Necromancer's golden ribs engraved with runes (5gp ea)
 - Mysterious Necromancer's Stone
-
 # Burglar's Pack
 - a [bag of 1,000 ball bearings](https://2014.5e.tools/items.html#ball%20bearings%20\(bag%20of%201%2c000\)_phb)
 - 10 feet of string
