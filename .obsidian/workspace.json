@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 1 - Big Scary House.md",
+                "file": "Session 3 - The Wizard Sambalet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 1 - Big Scary House"
+              "title": "Session 3 - The Wizard Sambalet"
             }
           }
         ]
@@ -181,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "037d9323e4086fa9",
+  "active": "b6674e00699f5da5",
   "lastOpenFiles": [
+    "Session 1 - Big Scary House.md",
     "Session 0 - The Gang Gets Together.md",
     "Session 3 - The Wizard Sambalet.md",
     "Eda Owland.md",
@@ -192,7 +193,6 @@
     "Tiresias.md",
     "Keledek the Unspoken.md",
     "The Snapping Line.md",
-    "Session 1 - Big Scary House.md",
     "Keledek Tower.md",
     "Acheron's Inventory.md",
     "Ye Secret of Ye Philosopher's Stone.md",
