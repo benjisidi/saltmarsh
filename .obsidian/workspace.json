@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f47509bc51509d0",
+        "id": "4c83eaa26e750abe",
         "type": "tabs",
         "children": [
           {
-            "id": "176302ccda2230be",
+            "id": "037d9323e4086fa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eda Owland.md",
+                "file": "Session 0 - The Gang Gets Together.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Eda Owland"
+              "title": "Session 0 - The Gang Gets Together"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766,
-    "collapsed": true
+    "width": 329.50418853759766
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -182,17 +181,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "176302ccda2230be",
+  "active": "037d9323e4086fa9",
   "lastOpenFiles": [
+    "Session 3 - The Wizard Sambalet.md",
+    "Session 0 - The Gang Gets Together.md",
     "Eda Owland.md",
     "Curtly.md",
     "Tiresias' Inventory.md",
     "Bag of Holding + Slush Fund.md",
     "Tiresias.md",
     "Keledek the Unspoken.md",
-    "Session 3 - The Wizard Sambalet.md",
     "The Snapping Line.md",
-    "Session 0 - The Gang Gets Together.md",
     "Session 1 - Big Scary House.md",
     "Keledek Tower.md",
     "Acheron's Inventory.md",
