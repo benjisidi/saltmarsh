@@ -27,13 +27,13 @@ Inspecting it through a spyglass, it appears to be in quite the state of disrepa
 
 Aurora sees there's something insectoid nesting in the roof of the house. She decides to fly in, and six [[Sturge]]s (giant, monstrous mosquitos about the size of a cat) burst from their hiding places. She narrowly escapes, flying between them and out of the roof.
 ## Entering the House
-We carefully make our way through the garden, once beautiful but now overgrown. We head over to a well, and see something sparking at the bottom. [[Agevea]] starts to scramble down the well, and as she does two large snakes emerge, one below and one above, ambush us# With difficulty, we kill them and retrieve some coins from the bottom of the well.
+We carefully make our way through the garden, once beautiful but now overgrown. We head over to a well, and see something sparking at the bottom. [[Agevea]] starts to scramble down the well, and as she does two large snakes emerge, one below and one above, ambush us! With difficulty, we kill them and retrieve some coins from the bottom of the well.
 
 We decide to enter the house to find somewhere safe to rest. Aurora does some scouting and finds the interior as dilapidated as the exterior. She enters a kitchen and rolls a ''double natural one'' on a perception check... [[Agevea]] follows her into the kitchen and detects something skittering beneath the floorboards.
 
 We all run back outside and start resting when some giant weasels decide we look like snacks. Shit. Luckily, [[Kolinth]] BBQs the lead weasel and the others eat it and leave us alone.
 
-The rattling in the kitchen turns out to be a mouse, and despite finding tracks leading further into the building, we decide to investigate the stairs leading down beneath the kitchen first. We find a wine cellar, and there's a corpse that died of bludgeoning damage. There's one bottle of wine that has rolled under one of shelves, worth 50gp# We reckon the person who died has been here for some time. The body has long since been looted, but the armour is in ok shape.
+The rattling in the kitchen turns out to be a mouse, and despite finding tracks leading further into the building, we decide to investigate the stairs leading down beneath the kitchen first. We find a wine cellar, and there's a corpse that died of bludgeoning damage. There's one bottle of wine that has rolled under one of shelves, worth 50gp! We reckon the person who died has been here for some time. The body has long since been looted, but the armour is in ok shape.
 
 [[Agevea]] notices a scuffmark near one of the walls, and as she goes to shove it open, we all hear an ethereal voice scream *WELCOME TO HELL!* - it's clearly a ruse, though, it doesn't sound like it's actually coming from the spirit. In the room behind the hidden door, there's three heavy-set sailors from the town who attack the party. We kill them, and find the room beyond has bunks and supplies in it, looking like the sailors have camped out here. There's 10 bunks in the room, all of which look like they've been slept in at some point. The dead have tattoos suggesting they were [[Sea Princes]].
 

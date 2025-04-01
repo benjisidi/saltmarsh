@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 0 - The Gang Gets Together.md",
+                "file": "Session 1 - Big Scary House.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 0 - The Gang Gets Together"
+              "title": "Session 1 - Big Scary House"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "037d9323e4086fa9",
   "lastOpenFiles": [
-    "Session 3 - The Wizard Sambalet.md",
     "Session 0 - The Gang Gets Together.md",
+    "Session 3 - The Wizard Sambalet.md",
     "Eda Owland.md",
     "Curtly.md",
     "Tiresias' Inventory.md",
