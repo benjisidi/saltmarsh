@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "216146255e7391bd",
+        "id": "7ff22de0ac2fc54e",
         "type": "tabs",
         "children": [
           {
-            "id": "eca4ee43f08d62c9",
+            "id": "04f70932b3fd8f99",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eca4ee43f08d62c9",
+  "active": "04f70932b3fd8f99",
   "lastOpenFiles": [
     "Session 3 - The Wizard Sambalet.md",
     "Session 1 - Big Scary House.md",
