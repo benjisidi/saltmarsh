@@ -16,4 +16,4 @@
 	- Dancing lights
 	- Comprehend languages
 	- Tenser's floating disk
-	- Shatter
+	- ~~Shatter~~
