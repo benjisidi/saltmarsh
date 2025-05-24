@@ -15,5 +15,8 @@ We long rest in the basement and discuss what to do. [[Agevea]] seems to know a 
 
 - Delicious red mushrooms
 - 2 cut pieces of blue quartz (10gp each)
+- We notice the ceiling in room 6 is bulging, the floor above must be weak!
+- Everything is coated in a thick layer of dust, save a set of footprints leading up to the 2nd floor...
+- 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
