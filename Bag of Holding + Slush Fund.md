@@ -3,10 +3,10 @@
 	- Klein Bottle
 	- Dodecahedron
 	- Three pronged test tube
+	- A piece of a counterweight for alchemy
 - 4x Necromancer's golden ribs engraved with runes (5gp ea)
 - Mysterious Necromancer's Stone
 - Hobgoblin's Scale Mail
--
 # Slush Fund
 | Amount | Origin                               |
 | ------ | ------------------------------------ |
