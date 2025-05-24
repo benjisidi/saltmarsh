@@ -14,4 +14,5 @@
 | 20     | Porcelain + Jade sailor doll         |
 | 50     | Wiiiiine!                            |
 | -60    | Payout                               |
-| 38.5   | Total after payout                   |
+| 27.5   | Total after payout                   |
+|        |                                      |
