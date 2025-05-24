@@ -8,5 +8,9 @@ He escapes by the time we destroy the door, and we decide to have a break and ex
 *We're gonna need a bigger boat to get these out of here*
 
 The bandits seem to mostly be Sea Princes. The hobgoblin has some sort of magical armour scale mail covered in sea-themed inscriptions.
+
+We long rest in the basement and discuss what to do. [[Agevea]] seems to know a lot about the [[Sea Princes]]... If we want to ambush them, we'll need to go out on the little boat we found to *their* ship. 
+
+
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
