@@ -41,10 +41,11 @@ We are immediately attacked by six [Sturges](), but overcome them easily. The at
 We have about 1 mo. til the [[Sea Princes]] arrive! In the meantime...
 - [[Kolinth]] gives the mushrooms we found in [[Bracksmore]] to the cook for the feast.
 - [[Tiresias]] spends a while examining the [[Sea Princes Logbook]], figures out what the routine is, and learns the signal code.
-- The gang forge a letter telling [[Keledek the Unspoken]]
+- The gang forge a letter telling [[Keledek the Unspoken]], saying that Tiresias has been called away and won't be seconded to him any more. Then they steal a couple of spells from his 
 - We go to a pawn shop on the outskirts of town [[Winston's Store]], and sell some of our loot.
-- [[Agevea]] begins to notice some bestial moments from time to time - she destroys a stein by accident
+- [[Agevea]] begins to notice some bestial moments from time to time - she destroys a stein by accident.
 ## Discussions with [[Elander Fireborn]]
-We head to the [[Guard Tower]] to talk to Elander to ask what to do about the [[Sea Princes]].
+We head to the [[Guard Tower]] to talk to Elander to ask what to do about the [[Sea Princes]]. He says he'll convene the town council and 
+## The Council Meeting
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading

@@ -33,30 +33,6 @@
             }
           },
           {
-            "id": "c158752a7d56f9a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gellin Primewater.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gellin Primewater"
-            }
-          },
-          {
             "id": "c71e77e1724fd62a",
             "type": "leaf",
             "state": {
@@ -128,8 +104,7 @@
               "title": "Bag of Holding + Slush Fund"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "da952e52b1d9805b",
@@ -311,7 +286,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c158752a7d56f9a8",
+  "active": "fd9301fe13ca9174",
   "lastOpenFiles": [
     "Gellin Primewater.md",
     "Session 4 - Tertiated.md",

@@ -1,1 +1,1 @@
-- Has a history with [[Agevea]]. Used to deal with 
+- Has a history with [[Agevea]]. Used to deal with the [[Sea Princes]] but using it as leverage would expose her. Won't say why.
