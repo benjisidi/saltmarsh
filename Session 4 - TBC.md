@@ -11,6 +11,9 @@ The bandits seem to mostly be Sea Princes. The hobgoblin has some sort of magica
 
 We long rest in the basement and discuss what to do. [[Agevea]] seems to know a lot about the [[Sea Princes]]... If we want to ambush them, we'll need to go out on the little boat we found to *their* ship. 
 
+# Investigating the Manor
 
+- Delicious red mushrooms
+- 2 cut pieces of blue quartz (10gp each)
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
