@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Session 4 - TBC"
             }
+          },
+          {
+            "id": "630a894a2d3d9dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 3 - The Wizard Sambalet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 3 - The Wizard Sambalet"
+            }
           }
         ]
       },
