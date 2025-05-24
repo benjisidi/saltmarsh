@@ -17,6 +17,8 @@ We long rest in the basement and discuss what to do. [[Agevea]] seems to know a 
 - Everything is coated in a thick layer of dust, save a set of footprints leading up to the 2nd floor...
 ## Upper Floor:
 13. Bedroom: Moldering cloth, discarded small items, *a glint in the fireplace*...and SPIDERS!
-> *We kill the spiders*
+> *We kill the spiders*. *The footsteps split between 14 and 15*
+14. Another decaying bedroom. The footsteps avoid the bowing, rotting floor and head to an open window. This is where the Sea Princes signal incoming ships!
+15. *Another* decaying bedroom. Footprints look more recent
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
