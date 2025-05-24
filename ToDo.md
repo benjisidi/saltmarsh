@@ -1,0 +1,3 @@
+- [ ] What happened with the manacles? Where did the person go?
+- [ ] [[Gellin Primewater]] is sussy, but we're not entirely sure why. He's got an upcoming feast!
+- [ ]
