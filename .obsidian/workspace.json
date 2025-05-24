@@ -128,7 +128,8 @@
               "title": "Bag of Holding + Slush Fund"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "da952e52b1d9805b",
@@ -310,15 +311,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd9301fe13ca9174",
+  "active": "5142e7601f461f0f",
   "lastOpenFiles": [
-    "Session 3 - The Wizard Sambalet.md",
-    "Bag of Holding + Slush Fund.md",
-    "Saltmarsh.md",
     "Tiresias' Inventory.md",
-    "Session 4 - Tertiated.md",
+    "Bag of Holding + Slush Fund.md",
     "ToDo.md",
     "Sea Princes Logbook.md",
+    "Session 3 - The Wizard Sambalet.md",
+    "Session 4 - Tertiated.md",
+    "Saltmarsh.md",
     "templates/session template.md",
     "templates/item template.md",
     "templates/location template.md",

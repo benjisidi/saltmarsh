@@ -7,6 +7,7 @@
 - A little bag of sand
 - Quarterstaff
 - Component pouch
+- Runes from magical ribs in [[Bracksmore]] (used to reanimate skeletons)
 - Books:
 	- *The magical properties of gemstones by the archmage Tensor*
 	- *The magical properties of herbs and flowers by the archmage Tensor*
