@@ -22,6 +22,12 @@ We find a variety of fun bits looking through the lower floor:
 > *We kill the spiders*. *The footsteps split between 14 and 15*
 14. Another decaying bedroom. The footsteps avoid the bowing, rotting floor and head to an open window. This is where the Sea Princes signal incoming ships!
 15. *Another* decaying bedroom. Footprints look more recent - last couple of days. There's a set of manacles and marks in the dust where someone has lain on the floor, seemingly tied up.
-> The other s
+> *The other side of the hall...*
+11 . A much grander bedroom - two poster bed. We find a once-grand, now moldy cloak.
+12 . An adjoining room for the grand bedroom. Once a storage room, now mostly empty. We find a matching set of gloves for the cloak.
+
+Looking through the [[Sea Princes]] logbook, we can see they've been here for a few years. They receive deliveries roughly once a month
+
+16.
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
