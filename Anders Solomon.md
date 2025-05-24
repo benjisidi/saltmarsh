@@ -1,0 +1,1 @@
+Recently on the town council after the death of his mother. Sharp features, big nose, gangly, fidgety. Accompanied by a bald, hook nosed BIG butler.

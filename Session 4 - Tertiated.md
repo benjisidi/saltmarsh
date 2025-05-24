@@ -41,11 +41,20 @@ We are immediately attacked by six [Sturges](), but overcome them easily. The at
 We have about 1 mo. til the [[Sea Princes]] arrive! In the meantime...
 - [[Kolinth]] gives the mushrooms we found in [[Bracksmore]] to the cook for the feast.
 - [[Tiresias]] spends a while examining the [[Sea Princes Logbook]], figures out what the routine is, and learns the signal code.
-- The gang forge a letter telling [[Keledek the Unspoken]], saying that Tiresias has been called away and won't be seconded to him any more. Then they steal a couple of spells from his 
+- The gang forge a letter telling [[Keledek the Unspoken]], saying that Tiresias has been called away and won't be seconded to him any more. Then they steal a couple of spells from his
 - We go to a pawn shop on the outskirts of town [[Winston's Store]], and sell some of our loot.
 - [[Agevea]] begins to notice some bestial moments from time to time - she destroys a stein by accident.
 ## Discussions with [[Elander Fireborn]]
-We head to the [[Guard Tower]] to talk to Elander to ask what to do about the [[Sea Princes]]. He says he'll convene the town council and 
+We head to the [[Guard Tower]] to talk to Elander to ask what to do about the [[Sea Princes]]. He says he'll convene the town council and they'll decide on the exact next course of action.
+He also catches us lying about the silk and brandy we found, and says the town will requisition it and give us a cut.
 ## The Council Meeting
+Listening to the previous petitioners, it's a mixture of dull things ("farmer blah planted a shrubbery on our land" and people worried about the lizardfolk).
+[[Saltmarsh Council]] sits waiting for us:
+- [[Eda Owland]]
+- [[Gellin Primewater]]
+- [[Elander Fireborn]]
+- [[Anders Solomon]]
+- [[A Dwarf]]
+- 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
