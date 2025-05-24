@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7ff22de0ac2fc54e",
+        "id": "497bc9e395df551f",
         "type": "tabs",
         "children": [
           {
-            "id": "04f70932b3fd8f99",
+            "id": "a62de35dbff4da69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tiresias' Inventory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tiresias' Inventory"
             }
           }
         ]
@@ -167,19 +181,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04f70932b3fd8f99",
+  "active": "a62de35dbff4da69",
   "lastOpenFiles": [
-    "Session 3 - The Wizard Sambalet.md",
+    "The Snapping Line.md",
     "Session 1 - Big Scary House.md",
+    "Guard Tower.md",
+    "Keledek the Unspoken.md",
+    "Keledek Tower.md",
+    "Tiresias' Inventory.md",
     "Session 0 - The Gang Gets Together.md",
+    "Session 3 - The Wizard Sambalet.md",
     "Eda Owland.md",
     "Curtly.md",
-    "Tiresias' Inventory.md",
     "Bag of Holding + Slush Fund.md",
     "Tiresias.md",
-    "Keledek the Unspoken.md",
-    "The Snapping Line.md",
-    "Keledek Tower.md",
     "Acheron's Inventory.md",
     "Ye Secret of Ye Philosopher's Stone.md",
     "templates/session template.md",
@@ -194,7 +209,6 @@
     "Meteorite Fragment.md",
     "The Glass Dice.md",
     "The Sapphire Lute.md",
-    "The Panther.md",
     "templates"
   ]
 }
