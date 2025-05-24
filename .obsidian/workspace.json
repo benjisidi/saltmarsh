@@ -33,6 +33,30 @@
             }
           },
           {
+            "id": "24c441a705b72126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 3 - The Wizard Sambalet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 3 - The Wizard Sambalet"
+            }
+          },
+          {
             "id": "c71e77e1724fd62a",
             "type": "leaf",
             "state": {
@@ -104,7 +128,8 @@
               "title": "Bag of Holding + Slush Fund"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "da952e52b1d9805b",
@@ -286,14 +311,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd9301fe13ca9174",
+  "active": "a62de35dbff4da69",
   "lastOpenFiles": [
-    "Sea Princes Logbook.md",
+    "Session 3 - The Wizard Sambalet.md",
     "Session 4 - TBC.md",
     "Bag of Holding + Slush Fund.md",
     "ToDo.md",
+    "Sea Princes Logbook.md",
     "Tiresias' Inventory.md",
-    "Session 3 - The Wizard Sambalet.md",
     "templates/session template.md",
     "templates/item template.md",
     "templates/location template.md",

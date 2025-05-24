@@ -11,3 +11,8 @@
 	- *The magical properties of gemstones by the archmage Tensor*
 	- *The magical properties of herbs and flowers by the archmage Tensor*
 	- *The metaphysics of mathematics by the mage Nystul*
+- A spell book containing:
+	- Dancing lights
+	- Comprehend languages
+	- Tenser's floating disk
+	- Shatter
