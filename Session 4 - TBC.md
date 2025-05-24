@@ -26,8 +26,9 @@ We find a variety of fun bits looking through the lower floor:
 11 . A much grander bedroom - two poster bed. We find a once-grand, now moldy cloak.
 12 . An adjoining room for the grand bedroom. Once a storage room, now mostly empty. We find a matching set of gloves for the cloak.
 
-Looking through the [[Sea Princes]] logbook, we can see they've been here for a few years. They receive deliveries roughly once a month
-
-16.
+Looking through the [[Sea Princes]] logbook, we can see they've been here for a few years. They receive deliveries roughly once a month, and their last one was a few days ago, so we probably have nearly a month to prepare!
+16. An old, decrepit study. Nothing of interest.
+17. A storage room. Nothing of interest.
+## Attic
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
