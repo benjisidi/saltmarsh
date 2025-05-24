@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 4 - TBC.md",
+                "file": "Session 4 - Tertiated.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 4 - TBC"
+              "title": "Session 4 - Tertiated"
             }
           },
           {
@@ -128,8 +128,7 @@
               "title": "Bag of Holding + Slush Fund"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "da952e52b1d9805b",
@@ -311,14 +310,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a62de35dbff4da69",
+  "active": "fd9301fe13ca9174",
   "lastOpenFiles": [
     "Session 3 - The Wizard Sambalet.md",
-    "Session 4 - TBC.md",
     "Bag of Holding + Slush Fund.md",
+    "Saltmarsh.md",
+    "Tiresias' Inventory.md",
+    "Session 4 - Tertiated.md",
     "ToDo.md",
     "Sea Princes Logbook.md",
-    "Tiresias' Inventory.md",
     "templates/session template.md",
     "templates/item template.md",
     "templates/location template.md",
@@ -337,7 +337,6 @@
     "Session 32 - test.md",
     "Session 31 - Woes for the Werewolves.md",
     "Mystras Temple.md",
-    "Featherworth.md",
     "Featherworth.md",
     "templates"
   ]
