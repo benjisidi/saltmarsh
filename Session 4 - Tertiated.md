@@ -55,6 +55,7 @@ Listening to the previous petitioners, it's a mixture of dull things ("farmer bl
 - [[Elander Fireborn]]
 - [[Anders Solomon]]
 - [[A Dwarf]]
-- 
+
+There are some pleasantries, then we get down to brass tax. Sea Princes don't usually 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
