@@ -43,8 +43,8 @@ We have about 1 mo. til the [[Sea Princes]] arrive! In the meantime...
 - [[Tiresias]] spends a while examining the [[Sea Princes Logbook]], figures out what the routine is, and learns the signal code.
 - The gang forge a letter telling [[Keledek the Unspoken]]
 - We go to a pawn shop on the outskirts of town [[Winston's Store]], and sell some of our loot.
-- [[Agevea]] begins to notice some bestial moments from time to time - she destroys a stein
+- [[Agevea]] begins to notice some bestial moments from time to time - she destroys a stein by accident
 ## Discussions with [[Elander Fireborn]]
-We head to the [[Guard Tower]] to talk to Elander to ask what to do about the [[Sea Princes]]. 
+We head to the [[Guard Tower]] to talk to Elander to ask what to do about the [[Sea Princes]].
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
