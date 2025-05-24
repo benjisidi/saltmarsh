@@ -104,8 +104,7 @@
               "title": "Bag of Holding + Slush Fund"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "da952e52b1d9805b",
@@ -287,10 +286,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c71e77e1724fd62a",
+  "active": "fd9301fe13ca9174",
   "lastOpenFiles": [
-    "Saltmarsh Council.md",
     "Sea Princes Logbook.md",
+    "Saltmarsh Council.md",
     "ToDo.md",
     "Bag of Holding + Slush Fund.md",
     "Tiresias' Inventory.md",
