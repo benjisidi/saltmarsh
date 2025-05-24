@@ -56,6 +56,6 @@ Listening to the previous petitioners, it's a mixture of dull things ("farmer bl
 - [[Anders Solomon]]
 - [[A Dwarf]]
 
-There are some pleasantries, then we get down to brass tax. Sea Princes don't usually 
+There are some pleasantries, then we get down to brass tax. Sea Princes don't usually operate this close to Saltmarsh, so if we destroy this ship we reckon they'll leave. If we destroy the ship, they'll probably not come back. We'll get paid 450gp, of which we've already been paid 150.
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
