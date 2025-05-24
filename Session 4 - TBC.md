@@ -1,4 +1,4 @@
-Created Date: {{date}}
+Created Date: 2025/05/24
 # The First Entry
 Put some info here!
 # Executive Summary

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tiresias' Inventory.md",
+                "file": "Session 3 - The Wizard Sambalet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tiresias' Inventory"
+              "title": "Session 3 - The Wizard Sambalet"
             }
           }
         ]
@@ -183,24 +183,25 @@
   },
   "active": "a62de35dbff4da69",
   "lastOpenFiles": [
-    "The Snapping Line.md",
-    "Session 1 - Big Scary House.md",
-    "Guard Tower.md",
-    "Keledek the Unspoken.md",
-    "Keledek Tower.md",
-    "Tiresias' Inventory.md",
-    "Session 0 - The Gang Gets Together.md",
-    "Session 3 - The Wizard Sambalet.md",
-    "Eda Owland.md",
-    "Curtly.md",
-    "Bag of Holding + Slush Fund.md",
-    "Tiresias.md",
-    "Acheron's Inventory.md",
-    "Ye Secret of Ye Philosopher's Stone.md",
+    "Session 4 - TBC.md",
     "templates/session template.md",
     "templates/item template.md",
     "templates/location template.md",
     "templates/npc template.md",
+    "Session 3 - The Wizard Sambalet.md",
+    "Session 1 - Big Scary House.md",
+    "Session 0 - The Gang Gets Together.md",
+    "The Snapping Line.md",
+    "Ye Secret of Ye Philosopher's Stone.md",
+    "Tiresias' Inventory.md",
+    "Tiresias.md",
+    "Guard Tower.md",
+    "Keledek the Unspoken.md",
+    "Keledek Tower.md",
+    "Eda Owland.md",
+    "Curtly.md",
+    "Bag of Holding + Slush Fund.md",
+    "Acheron's Inventory.md",
     "Session 32 - test.md",
     "Session 31 - Woes for the Werewolves.md",
     "Mystras Temple.md",
@@ -208,7 +209,6 @@
     "Featherworth.md",
     "Meteorite Fragment.md",
     "The Glass Dice.md",
-    "The Sapphire Lute.md",
     "templates"
   ]
 }
