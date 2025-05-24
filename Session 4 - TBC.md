@@ -16,7 +16,12 @@ We find a variety of fun bits looking through the lower floor:
 - Delicious red mushrooms
 - 2 cut pieces of blue quartz (10gp each)
 - We notice the ceiling in room 6 is bulging, the floor above must be weak!
-2. A library
+2. A library! Three interesting books (5-10gp each?):
+	- The magical properties of gemstones by the archmage Tensor
+	- The magical properties of herbs and flowers by the archmage Tensor
+	- The metaphysics of mathematics by the mage Nystul
+		- There are some notes saying "beyond skeletons"
+3. A study. A large ornate desk with a view out to sea. 
 - Everything is coated in a thick layer of dust, save a set of footprints leading up to the 2nd floor...
 ## Upper Floor:
 13. Bedroom: Moldering cloth, discarded small items, *a glint in the fireplace*...and SPIDERS!
