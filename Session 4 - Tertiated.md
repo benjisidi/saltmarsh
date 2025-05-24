@@ -57,9 +57,13 @@ Listening to the previous petitioners, it's a mixture of dull things ("farmer bl
 - [[A Dwarf]]: Very bored - "what the fuck am I doing here"
 
 There are some pleasantries, then we get down to brass tax. Sea Princes don't usually operate this close to Saltmarsh, so if we destroy this ship we reckon they'll leave. If we destroy the ship, they'll probably not come back. We'll get paid 450gp, of which we've already been paid 150.
-
-## Planning the attack
+## Planning the Attack
 - Agavea shows us a sea prince brand which has been tattoo'd over
-- 
+- Our plan is:
+	- She goes and talks to the Sea Princes when they arrive
+	- We tell some of them to come and pick up the silk
+	- We fight those people in the cave
+	- Then we fight the other people out on the ship
+## The Ambush
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
