@@ -40,5 +40,6 @@ We are immediately attacked by six [Sturges](), but overcome them easily. The at
 ## Downtime...
 We have about 1 mo. til the [[Sea Princes]] arrive! In the meantime...
 - [[Kolinth]] gives the mushrooms we found in [[Bracksmore]] to the cook for the feast.
+- [[Tiresias]] spends a while examining the [[Sea Princes Logbook]], figures out what the routine is, and learns the signal code.
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading

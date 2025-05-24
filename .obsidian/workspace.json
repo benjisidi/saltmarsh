@@ -33,6 +33,30 @@
             }
           },
           {
+            "id": "c71e77e1724fd62a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sea Princes Logbook.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sea Princes Logbook"
+            }
+          },
+          {
             "id": "3558fc1726943fed",
             "type": "leaf",
             "state": {
@@ -264,9 +288,10 @@
   },
   "active": "fd9301fe13ca9174",
   "lastOpenFiles": [
+    "Sea Princes Logbook.md",
+    "Session 4 - TBC.md",
     "Bag of Holding + Slush Fund.md",
     "ToDo.md",
-    "Session 4 - TBC.md",
     "Tiresias' Inventory.md",
     "Session 3 - The Wizard Sambalet.md",
     "templates/session template.md",
@@ -289,7 +314,6 @@
     "Mystras Temple.md",
     "Featherworth.md",
     "Featherworth.md",
-    "Meteorite Fragment.md",
     "templates"
   ]
 }
