@@ -16,6 +16,7 @@ We find a variety of fun bits looking through the lower floor:
 - Delicious red mushrooms
 - 2 cut pieces of blue quartz (10gp each)
 - We notice the ceiling in room 6 is bulging, the floor above must be weak!
+2. A library
 - Everything is coated in a thick layer of dust, save a set of footprints leading up to the 2nd floor...
 ## Upper Floor:
 13. Bedroom: Moldering cloth, discarded small items, *a glint in the fireplace*...and SPIDERS!
@@ -31,7 +32,5 @@ Looking through the [[Sea Princes]] logbook, we can see they've been here for a 
 17. A storage room. Nothing of interest.
 ## Attic
 We are immediately attacked by six [Sturges](), but overcome them easily. The attic is mostly full of bric-a-brac, but we find an ornate porcelain sailor doll.
-
-
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading

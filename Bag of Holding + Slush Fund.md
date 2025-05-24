@@ -8,6 +8,7 @@
 - Mysterious Necromancer's Stone
 - Hobgoblin's Scale Mail
 - Porcelain and Jade sailor doll (20gp)
+- A very valuable bottle of wine (50gp)
 # Slush Fund
 | Amount | Origin                               |
 | ------ | ------------------------------------ |
