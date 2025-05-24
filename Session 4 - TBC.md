@@ -30,6 +30,8 @@ Looking through the [[Sea Princes]] logbook, we can see they've been here for a 
 16. An old, decrepit study. Nothing of interest.
 17. A storage room. Nothing of interest.
 ## Attic
-We are immediately attacked by six [Sturges](), but overcome them easily. 
+We are immediately attacked by six [Sturges](), but overcome them easily. The attic is mostly full of bric-a-brac, but we find an ornate porcelain sailor doll.
+
+
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading

@@ -7,6 +7,7 @@
 - 4x Necromancer's golden ribs engraved with runes (5gp ea)
 - Mysterious Necromancer's Stone
 - Hobgoblin's Scale Mail
+- Porcelain and Jade sailor doll (20gp)
 # Slush Fund
 | Amount | Origin                               |
 | ------ | ------------------------------------ |
