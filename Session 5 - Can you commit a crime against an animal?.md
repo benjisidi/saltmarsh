@@ -8,8 +8,5 @@ O: Agavea
 1: Brians
 5: Prince
 6: Bosun
-
-
-
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading

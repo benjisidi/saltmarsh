@@ -66,7 +66,7 @@ There are some pleasantries, then we get down to brass tax. Sea Princes don't us
 	- Then we fight the other people out on the ship
 	- We've got a couple of poachers (father son pair called the Brians) who have come to help us
 ## The Ambush
-- We send over the right codes, Agavea rows out to the boats and convinces 5 of the Sea Princes to come ashore. They're all rowing back towards the cave.
+- We send over the right codes, Agavea rows out to the boats and convinces 6 of the Sea Princes to come ashore. They're all rowing back towards the cave.
 - Agavea is going to lead them into the big round cave (27) where the Brians are waiting with longbows.
 - Tiresias and Kolinth are waiting in the corridor of 26 to join the fight
 # Executive Summary
