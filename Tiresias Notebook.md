@@ -1,0 +1,2 @@
+- A set of interactions with minor spirits, documented by a mage on the Sea Prince ship we cleared in [[Session 5 - Can you commit a crime against an animal?]].
+-

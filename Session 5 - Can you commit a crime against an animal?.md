@@ -10,5 +10,16 @@ O: Agavea
 6: Bosun
 
 We get onto the ship and kill *everyone*. [[Agevea]] finds a pseudodragon who doesn't like anyone but her. We find some wine, some silvery lead ingots that turn out to be lizardman money. 25g in total.
+
+## Lizardman's Room
+- A pseudodragon that's now [[Agevea]]'s pet
+## Mage's Room
+- There's some carvings on the walls documenting his interactions with minor spirits
+- A lockbox full of coins and gems (50gp)
+- Spell scroll: Gust of Wind
+- His spellbook
+
+## Captain's Room
+- Man was a PLAYER - he had three "wives" uin
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
