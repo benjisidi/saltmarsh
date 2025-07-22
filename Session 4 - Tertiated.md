@@ -39,7 +39,7 @@ Looking through the [[Sea Princes]] logbook, we can see they've been here for a 
 We are immediately attacked by six [Sturges](), but overcome them easily. The attic is mostly full of bric-a-brac, but we find an ornate porcelain sailor doll.
 ## Downtime...
 We have about 1 mo. til the [[Sea Princes]] arrive! In the meantime...
-- [[Kolinth]] gives the mushrooms we found in [[Bracksmore]] to the cook for the feast.
+- [[Kolinth]] gives the mushrooms we found in [[Bracksmore]] to [[Betsy]] the cook for the feast.
 - [[Tiresias]] spends a while examining the [[Sea Princes Logbook]], figures out what the routine is, and learns the signal code.
 - The gang forge a letter telling [[Keledek the Unspoken]], saying that Tiresias has been called away and won't be seconded to him any more. Then they steal a couple of spells from his
 - We go to a pawn shop on the outskirts of town [[Winston's Store]], and sell some of our loot.

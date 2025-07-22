@@ -8,16 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7ca5a743fbffb26",
+            "id": "f2c329b4daf58bd9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Session 5 - TBC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 5 - TBC"
+            }
+          },
+          {
+            "id": "ace90f936829008f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 4 - Tertiated.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 4 - Tertiated"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766,
-    "collapsed": true
+    "width": 329.50418853759766
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -168,16 +206,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7ca5a743fbffb26",
+  "active": "ace90f936829008f",
   "lastOpenFiles": [
-    "Tiresias' Inventory.md",
+    "Session 5 - TBC.md",
+    "Gellin Primewater.md",
+    "Betsy.md",
+    "Guard Tower.md",
+    "Eda Owland.md",
+    "Curtly.md",
     "Bag of Holding + Slush Fund.md",
+    "Anders Solomon.md",
+    "Session 4 - Tertiated.md",
+    "Tiresias' Inventory.md",
     "ToDo.md",
     "Sea Princes Logbook.md",
-    "Session 4 - Tertiated.md",
     "Saltmarsh Council.md",
-    "Anders Solomon.md",
-    "Gellin Primewater.md",
     "Session 3 - The Wizard Sambalet.md",
     "Saltmarsh.md",
     "templates/session template.md",
@@ -189,13 +232,8 @@
     "The Snapping Line.md",
     "Ye Secret of Ye Philosopher's Stone.md",
     "Tiresias.md",
-    "Guard Tower.md",
     "Keledek the Unspoken.md",
     "Keledek Tower.md",
-    "Eda Owland.md",
-    "Curtly.md",
-    "Acheron's Inventory.md",
-    "Session 32 - test.md",
     "templates"
   ]
 }
