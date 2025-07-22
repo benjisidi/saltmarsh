@@ -9,6 +9,6 @@ O: Agavea
 5: Prince
 6: Bosun
 
-We get onto the ship and kill *everyone*. [[Agevea]] finds a pseudodragon who doesn't like anyone but her. We find some win
+We get onto the ship and kill *everyone*. [[Agevea]] finds a pseudodragon who doesn't like anyone but her. We find some wine, some silvery lead ingots that turn out to be lizardman money. 25g in total.
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
