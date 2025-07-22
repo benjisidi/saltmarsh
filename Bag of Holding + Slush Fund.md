@@ -6,7 +6,8 @@
 	- A piece of a counterweight for alchemy
 - Mysterious Necromancer's Stone
 - Hobgoblin's Scale Mail
-- Mysterious
+- Finely wrought sword
+- Finely made, somewhat practical clothing - like a high quality scout's outfit
 # Slush Fund
 | Amount | Origin                               |
 | ------ | ------------------------------------ |
@@ -16,5 +17,5 @@
 | 50     | Wiiiiine!                            |
 | -60    | Payout                               |
 | 27.5   | Total after payout                   |
-| 82.5   | Sea princes ship                     |
+| 107.5  | Sea princes ship                     |
 |        |                                      |
