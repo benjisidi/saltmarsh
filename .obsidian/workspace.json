@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "b2cc7ad1b948e20e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bag of Holding + Slush Fund.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bag of Holding + Slush Fund"
+            }
+          },
+          {
             "id": "ace90f936829008f",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,11 +254,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca9851d8b00c3fe9",
+  "active": "b2cc7ad1b948e20e",
   "lastOpenFiles": [
+    "Session 5 - Can you commit a crime against an animal?.md",
+    "Bag of Holding + Slush Fund.md",
     "Tiresias Notebook.md",
     "ToDo.md",
-    "Session 5 - Can you commit a crime against an animal?.md",
     "Untitled.md",
     "Session 4 - Tertiated.md",
     "Gellin Primewater.md",
@@ -242,7 +267,6 @@
     "Guard Tower.md",
     "Eda Owland.md",
     "Curtly.md",
-    "Bag of Holding + Slush Fund.md",
     "Anders Solomon.md",
     "Tiresias' Inventory.md",
     "Sea Princes Logbook.md",
