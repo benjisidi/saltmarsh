@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,11 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2cc7ad1b948e20e",
+  "active": "ca9851d8b00c3fe9",
   "lastOpenFiles": [
-    "Session 5 - Can you commit a crime against an animal?.md",
-    "Bag of Holding + Slush Fund.md",
     "Tiresias Notebook.md",
+    "Bag of Holding + Slush Fund.md",
+    "Session 5 - Can you commit a crime against an animal?.md",
     "ToDo.md",
     "Untitled.md",
     "Session 4 - Tertiated.md",

@@ -24,5 +24,7 @@ We get onto the ship and kill *everyone*. [[Agevea]] finds a pseudodragon who do
 - A key??
 - Big pile of maps: mostly cartographer standard maps of the nearby coastlines, and one roughly drawn map that's hard to decipher
 - More payment from the lizardfolk - 15gp
+## Bosun's Quarters
+- 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
