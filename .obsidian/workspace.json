@@ -55,8 +55,7 @@
               "title": "Session 4 - Tertiated"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ace90f936829008f",
+  "active": "f2c329b4daf58bd9",
   "lastOpenFiles": [
+    "Session 4 - Tertiated.md",
     "Session 5 - TBC.md",
     "Gellin Primewater.md",
     "Betsy.md",
@@ -216,7 +216,6 @@
     "Curtly.md",
     "Bag of Holding + Slush Fund.md",
     "Anders Solomon.md",
-    "Session 4 - Tertiated.md",
     "Tiresias' Inventory.md",
     "ToDo.md",
     "Sea Princes Logbook.md",
