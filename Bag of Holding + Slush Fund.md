@@ -16,5 +16,5 @@
 | 50     | Wiiiiine!                            |
 | -60    | Payout                               |
 | 27.5   | Total after payout                   |
-| 72.5   | Sea princes ship                     |
+| 82.5   | Sea princes ship                     |
 |        |                                      |
