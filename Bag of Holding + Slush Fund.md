@@ -19,4 +19,4 @@
 | 27.5   | Total after payout                          |
 | 107.5  | Sea princes ship                            |
 | 57.5   | Paper and ink for spell                     |
-| 157.5  | Payment from Elander in [[Session 6 - TBC]] |
+| 157.5  | Payment from Elander in [[Session 6 - Gellin is a Sea Prince]] |
