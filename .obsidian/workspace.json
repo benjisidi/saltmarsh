@@ -109,8 +109,57 @@
               "icon": "lucide-file",
               "title": "Session 6 - TBC"
             }
+          },
+          {
+            "id": "a6bde8466974de0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gellin Primewater.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gellin Primewater"
+            }
+          },
+          {
+            "id": "d8113861509ae0b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Saltmarsh Council.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Saltmarsh Council"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,26 +311,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1edc4fe009de1126",
+  "active": "d8113861509ae0b9",
   "lastOpenFiles": [
+    "Anders Solomon.md",
+    "Saltmarsh Council.md",
+    "Eda Owland.md",
+    "Gellin Primewater.md",
+    "Session 6 - TBC.md",
     "Tiresias' Inventory.md",
     "Bag of Holding + Slush Fund.md",
     "Session 5 - Can you commit a crime against an animal?.md",
-    "Session 6 - TBC.md",
     "Untitled 1.md",
     "Saltmarsh.md",
     "Session 4 - Tertiated.md",
     "Tiresias Notebook.md",
     "ToDo.md",
     "Untitled.md",
-    "Gellin Primewater.md",
     "Betsy.md",
     "Guard Tower.md",
-    "Eda Owland.md",
     "Curtly.md",
-    "Anders Solomon.md",
     "Sea Princes Logbook.md",
-    "Saltmarsh Council.md",
     "Session 3 - The Wizard Sambalet.md",
     "templates/session template.md",
     "templates/item template.md",
