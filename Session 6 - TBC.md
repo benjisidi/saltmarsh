@@ -30,6 +30,8 @@ Created Date: 2025-11-16
 - The whole thing is carnage - half the town is here, people of every generation. Feels like a big town get-together, everyone is mixing happily.
 - [[Kolinth]] finds the mushrooms he gave to the chef have been prepared into a canape
 - We hatch a plan where Kolinth will resummon his familiar as a spider and we'll do some snooping
+- [[Tiresias]] telepathically goes *"I have a message from your friends off-shore. They're growing suspicious. Be careful."*
+	- He seems panicked, and believes the message
 - 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
