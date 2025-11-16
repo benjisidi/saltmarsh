@@ -11,10 +11,54 @@
             "id": "dc8cdb147e6cb80e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Session 5 - Can you commit a crime against an animal?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 5 - Can you commit a crime against an animal?"
+            }
+          }
+        ]
+      },
+      {
+        "id": "97caa95d59b4e8f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1edc4fe009de1126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 6 - TBC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 6 - TBC"
             }
           }
         ]
@@ -74,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766
+    "width": 329.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -156,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,12 +213,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc8cdb147e6cb80e",
+  "active": "1edc4fe009de1126",
   "lastOpenFiles": [
+    "Session 5 - Can you commit a crime against an animal?.md",
+    "Session 6 - TBC.md",
     "Session 4 - Tertiated.md",
     "Bag of Holding + Slush Fund.md",
     "Tiresias Notebook.md",
-    "Session 5 - Can you commit a crime against an animal?.md",
     "ToDo.md",
     "Untitled.md",
     "Gellin Primewater.md",
@@ -194,7 +241,6 @@
     "Session 0 - The Gang Gets Together.md",
     "The Snapping Line.md",
     "Ye Secret of Ye Philosopher's Stone.md",
-    "Tiresias.md",
     "templates"
   ]
 }
