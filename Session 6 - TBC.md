@@ -20,6 +20,6 @@ Created Date: 2025-11-16
 ## Heading home
 - We take the cache of weapons and leave the ship
 - Tiresias names the pseudodragon on the way home
-- We arrive at Acheron's house and take a long 
+- We arrive at Acheron's house and take a long rest
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
