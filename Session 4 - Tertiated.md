@@ -54,7 +54,7 @@ Listening to the previous petitioners, it's a mixture of dull things ("farmer bl
 - [[Gellin Primewater]]: Outwardly calm, inwardly a bit panicky, "I need to get this out of here"
 - [[Elander Fireborn]]: Sus of the rest of the council, can't tell who in particular
 - [[Anders Solomon]]: The Sea Princes are personal for him. His butler has an oddly still mind.
-- [[A Dwarf]]: Very bored - "what the fuck am I doing here"
+- [[Manistrad Copperlocks]]: Very bored - "what the fuck am I doing here"
 
 There are some pleasantries, then we get down to brass tax. Sea Princes don't usually operate this close to Saltmarsh, so if we destroy this ship we reckon they'll leave. If we destroy the ship, they'll probably not come back. We'll get paid 450gp, of which we've already been paid 150.
 ## Planning the Attack

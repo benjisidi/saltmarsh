@@ -157,9 +157,33 @@
               "icon": "lucide-file",
               "title": "Saltmarsh Council"
             }
+          },
+          {
+            "id": "3d775edc0e410899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 4 - Tertiated.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 4 - Tertiated"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -311,10 +335,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8113861509ae0b9",
+  "active": "3d775edc0e410899",
   "lastOpenFiles": [
     "Anders Solomon.md",
+    "Session 4 - Tertiated.md",
+    "Elander Fireborn.md",
     "Saltmarsh Council.md",
+    "Manistrad Copperlocks.md",
     "Eda Owland.md",
     "Gellin Primewater.md",
     "Session 6 - TBC.md",
@@ -323,7 +350,6 @@
     "Session 5 - Can you commit a crime against an animal?.md",
     "Untitled 1.md",
     "Saltmarsh.md",
-    "Session 4 - Tertiated.md",
     "Tiresias Notebook.md",
     "ToDo.md",
     "Untitled.md",
@@ -337,8 +363,6 @@
     "templates/location template.md",
     "templates/npc template.md",
     "Session 1 - Big Scary House.md",
-    "Session 0 - The Gang Gets Together.md",
-    "The Snapping Line.md",
     "templates"
   ]
 }
