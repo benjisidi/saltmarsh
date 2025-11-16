@@ -21,7 +21,7 @@
 	- ~~Witchbolt~~
 	- Mage Armour
 	- ~~Fog Cloud~~
-	- Disguise Self
+	- ~~Disguise Self~~
 - A spell book containing:
 	- Comprehend languages
 	- Tenser's floating disk

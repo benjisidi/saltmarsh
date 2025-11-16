@@ -20,5 +20,7 @@ Created Date: 2025-11-16
 - We take the cache of weapons and leave the ship
 - Tiresias names the pseudodragon on the way home
 - We arrive at Acheron's house and take a long rest
+## Seeing Elander
+- We want to work on the suspicion [[Elander Fireborn]] already has for the council 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading

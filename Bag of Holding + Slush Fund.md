@@ -18,4 +18,4 @@
 | -60    | Payout                               |
 | 27.5   | Total after payout                   |
 | 107.5  | Sea princes ship                     |
-|        |                                      |
+| 57.5   | Paper and ink for spell              |

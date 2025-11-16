@@ -79,8 +79,7 @@
               "title": "Bag of Holding + Slush Fund"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "97caa95d59b4e8f1",
@@ -140,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saltmarsh Council.md",
+                "file": "Saltmarsh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -155,11 +154,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Saltmarsh Council"
+              "title": "Saltmarsh"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,22 +309,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8113861509ae0b9",
+  "active": "1edc4fe009de1126",
   "lastOpenFiles": [
-    "Session 4 - Tertiated.md",
-    "Saltmarsh Council.md",
     "Gellin Primewater.md",
+    "Session 5 - Can you commit a crime against an animal?.md",
+    "Tiresias' Inventory.md",
+    "Bag of Holding + Slush Fund.md",
+    "Saltmarsh.md",
+    "Saltmarsh Council.md",
+    "Session 4 - Tertiated.md",
     "Manistrad Copperlocks.md",
     "Anders Solomon.md",
     "Eda Owland.md",
     "Elander Fireborn.md",
     "Session 6 - TBC.md",
     "Guard Tower.md",
-    "Tiresias' Inventory.md",
-    "Bag of Holding + Slush Fund.md",
-    "Session 5 - Can you commit a crime against an animal?.md",
     "Untitled 1.md",
-    "Saltmarsh.md",
     "Tiresias Notebook.md",
     "ToDo.md",
     "Untitled.md",
