@@ -10,7 +10,8 @@ Created Date: 2025-11-16
 ## The Hold
 - The hatch to the hold has some mysterious arcane scrawlings on it. It looks almost conversational. Candles have been burned here. Some sort of ritual?
 - The hold is *dark*. We lower a lantern inside but the light seems to fall off unnaturally fast...
-- As [[Agevea]]'s hand touches the darkness, she goes limp and falls into the darkness
+- As [[Agevea]]'s hand touches the darkness, she goes limp and falls into the darkness. The lantern light disappears!
+- The hold is a flat-bottomed space with manacles lining the walls. It appears to be empty.
 - 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
