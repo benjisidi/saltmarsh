@@ -21,6 +21,6 @@ Created Date: 2025-11-16
 - Tiresias names the pseudodragon on the way home
 - We arrive at Acheron's house and take a long rest
 ## Seeing Elander
-- We want to work on the suspicion [[Elander Fireborn]] already has for the council 
+- We want to work on the suspicion [[Elander Fireborn]] already has for the council, by hinting that we know [[Gellin Primewater]] is involved with the [[Sea Princes]]. We can't reveal that overtly as it would out [[Agevea]] as 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
