@@ -26,6 +26,9 @@ Created Date: 2025-11-16
 - He pays us 400gp total for the mission, and is going to burn the ship
 - We're summoned to the council chambers the following morning
 ## Gellin's Party
+- At [[Gellin Primewater's House]]
+- The whole thing is carnage - half the town is here, people of every generation. Feels like a big town get-together, everyone is mixing happily.
+- [[Kolinth]] finds the mushrooms he gave to the chef have been prepared into a canape
 - 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
