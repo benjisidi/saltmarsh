@@ -6,8 +6,8 @@
 	- A piece of a counterweight for alchemy
 - Mysterious Necromancer's Stone
 - Hobgoblin's Scale Mail
-- Finely wrought sword
-- Finely made, somewhat practical clothing - like a high quality scout's outfit
+- 5 handfuls of jerky
+-
 # Slush Fund
 | Amount | Origin                               |
 | ------ | ------------------------------------ |
