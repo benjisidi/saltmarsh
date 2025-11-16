@@ -79,7 +79,8 @@
               "title": "Bag of Holding + Slush Fund"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "97caa95d59b4e8f1",
@@ -189,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "silk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +211,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -311,15 +313,15 @@
   },
   "active": "1edc4fe009de1126",
   "lastOpenFiles": [
-    "Session 5 - Can you commit a crime against an animal?.md",
     "Bag of Holding + Slush Fund.md",
-    "Tiresias' Inventory.md",
     "Session 6 - TBC.md",
+    "Session 4 - Tertiated.md",
+    "Session 5 - Can you commit a crime against an animal?.md",
+    "Tiresias' Inventory.md",
     "Creation Myth.md",
     "Gellin Primewater.md",
     "Saltmarsh.md",
     "Saltmarsh Council.md",
-    "Session 4 - Tertiated.md",
     "Manistrad Copperlocks.md",
     "Anders Solomon.md",
     "Eda Owland.md",

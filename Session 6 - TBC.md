@@ -22,6 +22,6 @@ Created Date: 2025-11-16
 - We arrive at Acheron's house and take a long rest
 ## Seeing Elander
 - We want to work on the suspicion [[Elander Fireborn]] already has for the council, by hinting that we know [[Gellin Primewater]] is involved with the [[Sea Princes]]. We can't reveal that overtly as it would out [[Agevea]] as an ex-seaprince
-- We convince Elander that 
+- We convince Elander that the Sea Princes were waiting for someone important. He seems very interested in the weapons and says if we let him have them we'll earn his trust.
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
