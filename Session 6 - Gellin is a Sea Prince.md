@@ -30,6 +30,7 @@ Created Date: 2025-11-16
 - The whole thing is carnage - half the town is here, people of every generation. Feels like a big town get-together, everyone is mixing happily.
 - [[Kolinth]] finds the mushrooms he gave to the chef have been prepared into a canape
 - We hatch a plan where Kolinth will resummon his familiar as a spider and we'll do some snooping
+	- He finds that Gellin has a stack of private letters
 - [[Tiresias]] telepathically goes *"I have a message from your friends off-shore. They're growing suspicious. Be careful."*
 	- He seems panicked, and believes the message
 	- Speaks to a servant immediately afterwards. Tiresias reads his mind and finds out where he's going.... (We'll pick this up next time!)
