@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e07b3ef7daadf34",
+        "id": "03439e4ac0e60fce",
         "type": "tabs",
         "children": [
           {
-            "id": "dc8cdb147e6cb80e",
+            "id": "f383225d94a55f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766,
-    "collapsed": true
+    "width": 329.50418853759766
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -213,10 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1edc4fe009de1126",
+  "active": "f383225d94a55f3f",
   "lastOpenFiles": [
-    "Session 5 - Can you commit a crime against an animal?.md",
     "Session 6 - TBC.md",
+    "Saltmarsh.md",
+    "Session 5 - Can you commit a crime against an animal?.md",
     "Session 4 - Tertiated.md",
     "Bag of Holding + Slush Fund.md",
     "Tiresias Notebook.md",
@@ -232,7 +232,6 @@
     "Sea Princes Logbook.md",
     "Saltmarsh Council.md",
     "Session 3 - The Wizard Sambalet.md",
-    "Saltmarsh.md",
     "templates/session template.md",
     "templates/item template.md",
     "templates/location template.md",
