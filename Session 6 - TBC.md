@@ -16,5 +16,10 @@ Created Date: 2025-11-16
 - The hold is a flat-bottomed space with manacles lining the walls. It appears to be empty.
 - As [[Tiresias]] enters, the combined sorrow of all of the beings that have been enslaved in here washes over and into him all at once. He arrives at the bottom to find Agavea conscious but unresponsive, curled up on her side, eyes wide. The others hoist her out on a rope.
 - Seems like the mage was trying to seal in whatever spirit was here.
+
+## Heading home
+- We take the cache of weapons and leave the ship
+- Tiresias names the pseudodragon on the way home
+- We arrive at Acheron's house and take a long 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
