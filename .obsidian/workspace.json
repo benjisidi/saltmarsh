@@ -157,33 +157,9 @@
               "icon": "lucide-file",
               "title": "Saltmarsh Council"
             }
-          },
-          {
-            "id": "3d775edc0e410899",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 4 - Tertiated.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 4 - Tertiated"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -335,16 +311,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d775edc0e410899",
+  "active": "d8113861509ae0b9",
   "lastOpenFiles": [
-    "Anders Solomon.md",
     "Session 4 - Tertiated.md",
-    "Elander Fireborn.md",
     "Saltmarsh Council.md",
-    "Manistrad Copperlocks.md",
-    "Eda Owland.md",
     "Gellin Primewater.md",
+    "Manistrad Copperlocks.md",
+    "Anders Solomon.md",
+    "Eda Owland.md",
+    "Elander Fireborn.md",
     "Session 6 - TBC.md",
+    "Guard Tower.md",
     "Tiresias' Inventory.md",
     "Bag of Holding + Slush Fund.md",
     "Session 5 - Can you commit a crime against an animal?.md",
@@ -354,7 +331,6 @@
     "ToDo.md",
     "Untitled.md",
     "Betsy.md",
-    "Guard Tower.md",
     "Curtly.md",
     "Sea Princes Logbook.md",
     "Session 3 - The Wizard Sambalet.md",

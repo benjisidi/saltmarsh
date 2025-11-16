@@ -1,1 +1,1 @@
-Member of the [[Saltmarsh Council]]. Runs the mineworks out of town, affiliated with the king. Ceremonial position on the council, only really there out of respect for her position elsewhere.
+Dwarf. Member of the [[Saltmarsh Council]]. Runs the mineworks out of town, affiliated with the king. Ceremonial position on the council, only really there out of respect for her position elsewhere.
