@@ -14,16 +14,14 @@ We get onto the ship and kill *everyone*. [[Agevea]] finds a pseudodragon who do
 	- **The sea-princes have been supplying the lizardmen with weapons and armour**
 - Two healing potions
 - A key??
-- Big pile of maps: mostly cartographer standard maps of the nearby coastlines, and one roughly drawn map that's hard to decipher
+- Big pile of maps: mostly cartographer standard maps of the nearby coastlines, and o
 - More payment from the lizardfolk - ~~15gp~~
 ## Bosun's Quarters
 - More lizardman currency - ~~10gp~~
 - Effects of someone who clearly isn't the bosun
 	- Finely wrought sword
 	- Finely made, somewhat practical clothing - like a high quality scout's outfit
-- Hidden door in the wall - the bosun's key fits!
+- Hidden door in the wall - the captain's key fits!
 	- There's a prisoner in there
 	- He's a sea elf!
 	- Named [[Oceanus]]
-# Executive Summary
-At the end of the session, recap what's happened for easy re-reading

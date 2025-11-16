@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Session 5 - Can you commit a crime against an animal?"
             }
+          },
+          {
+            "id": "b271ac1089dcb748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bag of Holding + Slush Fund.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bag of Holding + Slush Fund"
+            }
           }
         ]
       },
@@ -118,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766
+    "width": 329.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -212,13 +237,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f383225d94a55f3f",
+  "active": "1edc4fe009de1126",
   "lastOpenFiles": [
-    "Session 6 - TBC.md",
-    "Saltmarsh.md",
     "Session 5 - Can you commit a crime against an animal?.md",
-    "Session 4 - Tertiated.md",
+    "Session 6 - TBC.md",
     "Bag of Holding + Slush Fund.md",
+    "Saltmarsh.md",
+    "Session 4 - Tertiated.md",
     "Tiresias Notebook.md",
     "ToDo.md",
     "Untitled.md",
