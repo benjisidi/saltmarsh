@@ -22,6 +22,10 @@ Created Date: 2025-11-16
 - We arrive at Acheron's house and take a long rest
 ## Seeing Elander
 - We want to work on the suspicion [[Elander Fireborn]] already has for the council, by hinting that we know [[Gellin Primewater]] is involved with the [[Sea Princes]]. We can't reveal that overtly as it would out [[Agevea]] as an ex-seaprince
-- We convince Elander that the Sea Princes were waiting for someone important. He seems very interested in the weapons and says if we let him have them we'll earn his trust.
+- We convince Elander that the Sea Princes were waiting for someone important. He seems very interested in the weapons and says if we let him have them we'll earn his trust. He seemed to recognise something in them
+- He pays us 400gp total for the mission, and is going to burn the ship
+- We're summoned to the council chambers the following morning
+## Gellin's Party
+- 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
