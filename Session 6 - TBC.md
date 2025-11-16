@@ -12,6 +12,6 @@ Created Date: 2025-11-16
 - The hold is *dark*. We lower a lantern inside but the light seems to fall off unnaturally fast...
 - As [[Agevea]]'s hand touches the darkness, she goes limp and falls into the darkness. The lantern light disappears!
 - The hold is a flat-bottomed space with manacles lining the walls. It appears to be empty.
-- 
+- As [[Tiresias]] enters, the combined sorrow of all of the beings that have been enslaved in here washes over and into him all at once. He arrives at the bottom to find Agavea conscious but unresponsive, curled up on her side, eyes wide. The others 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
