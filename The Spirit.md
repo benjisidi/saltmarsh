@@ -2,3 +2,7 @@
 - Infinitely big, lots of different regions
 - People in the material world affect the warp and vice versa
 	- Large collections of people, geographical features etc leave imprints on in, along with particularly strong emotions and beliefs etc
+- Space is warped weirdly in the spirit - it has analogs to places in the material, but the space between them etc doesn't need to make sense: the spirit is infinite, and the material is not
+	- Wherever you are in the spirit, the [[River Danue]] is running through it somewhere
+- When most people die, their energy sort of dissipates into the spirit
+	- That's not true for everyone: for some people, they linger more cohesively
