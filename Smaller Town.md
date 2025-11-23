@@ -1,3 +1,3 @@
 - Medium-sized urban town, ~150k population
 - Built up around some mines/quarries of copper, tin and iron
-- Mostly dwarvern population
+- Mostly dwarvern population, some humans

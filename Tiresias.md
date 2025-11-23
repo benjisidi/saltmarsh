@@ -19,10 +19,10 @@
 - Keeps showing up day after day, keeps getting turned away
 - Eventually, manages to portent his way to just the right person showing up at the door at just the right time
 - A dwarvern academic specialising in the Divination school of magic shows up and takes Tiresias under his wing.
-- [[Urin Cloudstrider]] teaches Tiresias the basics of "structured" magic and how to draw on the spirit to cast spells
-- Urin gets called called away for *reasons* and sends Tiresias to some of his colleagues for apprenticeship
-	- Urin
+- [[Uridin Cloudstrider]] teaches Tiresias the basics of "structured" magic and how to draw on the spirit to cast spells
+- Uridin gets called called away for *reasons* and sends Tiresias to some of his colleagues for apprenticeship
+	- Uridin cobb
 # [[Smaller Town]]
--
+- [[Bartimeus Haughtlach]]
 # Saltmarsh + Surroundings
 -
