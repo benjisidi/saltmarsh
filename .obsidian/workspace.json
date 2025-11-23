@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "3a362c8664fad8d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Ash.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Ash"
-            }
-          },
-          {
             "id": "2b76ae296fa71f7e",
             "type": "leaf",
             "state": {
@@ -103,8 +79,7 @@
               "title": "Saltmarsh"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,12 +232,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a362c8664fad8d7",
+  "active": "589750f160fe5d69",
   "lastOpenFiles": [
+    "Saltmarsh.md",
     "The Ash.md",
     "Capital City.md",
     "Tiresias.md",
-    "Saltmarsh.md",
     "MM Tiresias.md",
     "Bag of Holding + Slush Fund.md",
     "Tiresias' Inventory.md",

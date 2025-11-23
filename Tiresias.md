@@ -23,6 +23,6 @@
 - Urin gets called called away for *reasons* and sends Tiresias to some of his colleagues for apprenticeship
 	- Urin
 # [[Smaller Town]]
--
+- 
 # Saltmarsh + Surroundings
 -

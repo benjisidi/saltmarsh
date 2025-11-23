@@ -1,3 +1,10 @@
 - Symbol of an ash tree
 - Pseudo-religious organisation
-- 
+- They want to bring different communities together for the betterment of the city
+- BUT they're *all humans*
+- Sus in a overly-friendly smiling-too-much kind of way
+- Recruit quite aggressively in a sort of catholic church way, but only amongst humans
+- Badges & pamphlets etc
+- Not super popular (yet)
+- A bit Hari Krishna
+- Have been around for a while
