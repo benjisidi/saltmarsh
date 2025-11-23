@@ -15,9 +15,10 @@ By projecting your mind into the spirit, you can find the minds of others and ti
 ## Evocation/Conjuration
 By pulling either emotional energy or representations of elements/powerful natural phenomena into the material, you can manifest concentrations of elemental energy or actual beings
 ## Divination
-Information collecting is much easier in the spirit, and
+Information collecting is much easier in the spirit, and by projecting your consciousness into it you can divine things about the world and look into the material.
 ### Portent
 There is a place in the spirit (celtic-flavoured name) that Tiresias is familiar with and able to return to, where the river is calm and [[fate's current]] eddies gently near the banks. He's realised he can disturb the currents in order to affect the unfolding of events in the material - the magnitude with which he disturb it reflects the strength of the pull of events.
+
 # Magical Logic:
 There is the real and the spirit. The real is the material, mundane world of beings born of the earth. The spirit at its core, is the collected experience of beings in the real.
 
