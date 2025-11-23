@@ -15,7 +15,11 @@ Warping something's representation in the spirit to a lesser or greater extent c
 ## Enchantment/Psyonics
 By projecting your mind into the spirit, you can find the minds of others and tinker with their perceptions of reality, or convey information to and from them
 
-## Evocation/
+## Evocation/Conjuration
+By pulling either emotional energy or representations of elements/powerful natural phenomena into the material, you can manifest concentrations of elemental energy or actual beings
+
+## Divination
+Information collecting is much easier in the spirit, and 
 
 # Magical Logic:
 There is the real and the spirit. The real is the material, mundane world of beings born of the earth. The spirit at its core, is the collected experience of beings in the real.
