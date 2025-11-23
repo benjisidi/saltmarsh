@@ -11,8 +11,12 @@
 ## ToDo (with Cian):
 - [ ] There's some timey-wimey stuff happening in the grove
 - [ ] I think Tiresias and Kolinth were friends as kids, bonded by their mutual curiosity about the wider world.
-# Capital City
+# [[Capital City]]
 - There's low-level prejudice towards non-humans in Keoland, something the elves are largely sheltered from and ignorant of
 	- There's a hierarchy - the more human-y you are, the less mistreated (i.e. elves and dwarves are treated better than lisardmen)
-- 
+- Tiresias shows up at the [[Wizard Royal Academy]] and asks to join
+	- Gets told to get lost because racism and gatekeeping
+- Keeps showing up day after day, keeps getting turned away
+- Eventually, manages to portent his way to just the right person showing up at the door at just the right time
+- A dwarvern academic specialising in the Divination school of magic shows up and takes Tiresias under 
 # Saltmarsh + Surroundings
