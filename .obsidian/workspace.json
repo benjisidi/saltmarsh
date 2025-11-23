@@ -39,7 +39,7 @@
               "state": {
                 "file": "The Spirit.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
