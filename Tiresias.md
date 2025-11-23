@@ -8,6 +8,7 @@
 - He also had ambitions to expand his magical skill, and that would have been difficult to achieve while staying home
 - Tiresias has a misplaced amount of confidence due to his magical abilities
 - Stowed away on a trade caravan after talking big about leaving for a long time
+- Tiresias discovered a place in [[The Spirit]] that allows him to use portent, and has never met anyone else who can do the same
 ## ToDo (with Cian):
 - [ ] There's some timey-wimey stuff happening in the grove
 - [ ] I think Tiresias and Kolinth were friends as kids, bonded by their mutual curiosity about the wider world.
