@@ -4,182 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03439e4ac0e60fce",
+        "id": "93d6a6ddc45146aa",
         "type": "tabs",
         "children": [
           {
-            "id": "f383225d94a55f3f",
+            "id": "589750f160fe5d69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 5 - Can you commit a crime against an animal?.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 5 - Can you commit a crime against an animal?"
-            }
-          },
-          {
-            "id": "d8baab459e8b3b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiresias' Inventory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tiresias' Inventory"
-            }
-          },
-          {
-            "id": "b271ac1089dcb748",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bag of Holding + Slush Fund.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bag of Holding + Slush Fund"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "97caa95d59b4e8f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1edc4fe009de1126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 6 - Gellin is a Sea Prince.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 6 - Gellin is a Sea Prince"
-            }
-          },
-          {
-            "id": "0c0985ec20b6a2c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gellin Primewater's House.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gellin Primewater's House"
-            }
-          },
-          {
-            "id": "a6bde8466974de0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gellin Primewater.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gellin Primewater"
-            }
-          },
-          {
-            "id": "d8113861509ae0b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saltmarsh.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Saltmarsh"
+              "title": "New tab"
             }
           }
         ]
@@ -335,17 +170,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1edc4fe009de1126",
+  "active": "589750f160fe5d69",
   "lastOpenFiles": [
-    "Gellin Primewater's House.md",
-    "Session 6 - Gellin is a Sea Prince.md",
     "Bag of Holding + Slush Fund.md",
-    "Session 4 - Tertiated.md",
-    "Session 5 - Can you commit a crime against an animal?.md",
     "Tiresias' Inventory.md",
-    "Creation Myth.md",
-    "Gellin Primewater.md",
+    "Session 5 - Can you commit a crime against an animal?.md",
+    "Session 6 - Gellin is a Sea Prince.md",
     "Saltmarsh.md",
+    "Gellin Primewater.md",
+    "Gellin Primewater's House.md",
+    "Session 4 - Tertiated.md",
+    "Creation Myth.md",
     "Saltmarsh Council.md",
     "Manistrad Copperlocks.md",
     "Anders Solomon.md",
