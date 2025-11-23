@@ -1,4 +1,4 @@
-- ~ 100k population
+- ~ 500k population
 - A mixture of urban sprawl and nicer Georgian style tall brickwork structures
 - Outskirts are more low-fantasy logs and thatched roofs etc
 - There's talk here about the modernisation of Saltmarsh and the king's ambitions

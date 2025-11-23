@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "060e891e4f0e6c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Smaller Town.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Smaller Town"
+            }
+          },
+          {
             "id": "47c7918819c5b1c5",
             "type": "leaf",
             "state": {
@@ -234,10 +258,11 @@
   },
   "active": "589750f160fe5d69",
   "lastOpenFiles": [
-    "Saltmarsh.md",
-    "The Ash.md",
+    "Smaller Town.md",
     "Capital City.md",
     "Tiresias.md",
+    "Saltmarsh.md",
+    "The Ash.md",
     "MM Tiresias.md",
     "Bag of Holding + Slush Fund.md",
     "Tiresias' Inventory.md",
@@ -259,7 +284,6 @@
     "Untitled.md",
     "Betsy.md",
     "Curtly.md",
-    "Sea Princes Logbook.md",
     "templates"
   ]
 }
