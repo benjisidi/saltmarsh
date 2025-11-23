@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "7bb63a39b1b5c943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capital City.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Capital City"
+            }
+          },
+          {
             "id": "2b76ae296fa71f7e",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "Saltmarsh"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +233,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589750f160fe5d69",
+  "active": "7bb63a39b1b5c943",
   "lastOpenFiles": [
-    "Saltmarsh.md",
+    "Capital City.md",
     "Tiresias.md",
+    "Saltmarsh.md",
     "MM Tiresias.md",
     "Bag of Holding + Slush Fund.md",
     "Tiresias' Inventory.md",
@@ -235,7 +261,6 @@
     "Curtly.md",
     "Sea Princes Logbook.md",
     "Session 3 - The Wizard Sambalet.md",
-    "templates/session template.md",
     "templates"
   ]
 }

@@ -22,4 +22,4 @@
 - [[Urin Cloudstrider]] teaches Tiresias the basics of "structured" magic and how to draw on the spirit to cast spells
 - Urin gets called called away for *reasons* and sends Tiresias to some of his colleagues for apprenticeship
 # Saltmarsh + Surroundings
-- 
+-
