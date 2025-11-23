@@ -21,7 +21,7 @@
 - A dwarvern academic specialising in the Divination school of magic shows up and takes Tiresias under his wing.
 - [[Uridin Cloudstrider]] teaches Tiresias the basics of "structured" magic and how to draw on the spirit to cast spells
 - Uridin gets called called away for *reasons* and sends Tiresias to some of his colleagues for apprenticeship
-	- Uridin cobb
+	- Uridin cobbles together a few of his colleagues who are each willing to take on Tiresias for a few months, and so between them he'll have mentorship while he's away
 # [[Smaller Town]]
 - [[Bartimeus Haughtlach]]
 # Saltmarsh + Surroundings
