@@ -21,5 +21,8 @@
 - A dwarvern academic specialising in the Divination school of magic shows up and takes Tiresias under his wing.
 - [[Urin Cloudstrider]] teaches Tiresias the basics of "structured" magic and how to draw on the spirit to cast spells
 - Urin gets called called away for *reasons* and sends Tiresias to some of his colleagues for apprenticeship
+	- Urin
+# [[Smaller Town]]
+-
 # Saltmarsh + Surroundings
 -

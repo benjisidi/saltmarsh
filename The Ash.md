@@ -1,0 +1,3 @@
+- Symbol of an ash tree
+- Pseudo-religious organisation
+- 
