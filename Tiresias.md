@@ -12,7 +12,7 @@
 - [ ] There's some timey-wimey stuff happening in the grove
 - [ ] I think Tiresias and Kolinth were friends as kids, bonded by their mutual curiosity about the wider world.
 - [ ] Flavour some spells as naturalist since they were learned from [[Bartimeus Haughtlach]]
-- [ ] Terms for telepathic people - one slur word and one regular term 
+- [ ] Terms for telepathic people - one slur word and one regular term
 # [[Capital City]]
 - There's low-level prejudice towards non-humans in Keoland, something the elves are largely sheltered from and ignorant of
 	- There's a hierarchy - the more human-y you are, the less mistreated (i.e. elves and dwarves are treated better than lisardmen)

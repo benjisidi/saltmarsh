@@ -103,7 +103,8 @@
               "title": "Saltmarsh"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,10 +256,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "589750f160fe5d69",
+  "active": "ed70d3a15a179875",
   "lastOpenFiles": [
-    "The Spirit.md",
     "Tiresias.md",
+    "The Spirit.md",
     "Capital City.md",
     "Bartimeus Haughtlach.md",
     "Uridin Cloudstrider.md",

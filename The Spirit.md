@@ -8,6 +8,15 @@
 	- That's not true for everyone: for some people, they linger more cohesively
 		- This is true of traditional ghosts with unfinished business, and also of great figures or folk heroes who left an imprint on the world
 
+# How the spirit facilitates spellcasting
+## Illusion/Transmutation
+Warping something's representation in the spirit to a lesser or greater extent can either provide the illusion of change in the material or actually physically manifest it
+
+## Enchantment/Psyonics
+By projecting your mind into the spirit, you can find the minds of others and tinker with their perceptions of reality, or convey information to and from them
+
+## Evocation/
+
 # Magical Logic:
 There is the real and the spirit. The real is the material, mundane world of beings born of the earth. The spirit at its core, is the collected experience of beings in the real.
 
