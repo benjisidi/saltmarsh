@@ -1,0 +1,4 @@
+- Fey-meets-the-warp
+- Infinitely big, lots of different regions
+- People in the material world affect the warp and vice versa
+	- Large collections of people, geographical features etc leave imprints on in, along with particularly strong emotions and beliefs etc

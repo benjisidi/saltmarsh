@@ -25,10 +25,10 @@
 	- Uridin cobbles together a few of his colleagues who are each willing to take on Tiresias for a few months, and so between them he'll have mentorship while he's away
 # [[Smaller Town]]
 - [[Bartimeus Haughtlach]] tutors Tiresias for a few months before he's sent to Saltmarsh to study under [[Keledek the Unspoken]]
-- Learns lots about nature and animals, and a little bit about magic 
+- Learns lots about nature and animals, and a little bit about magic
 - Gets along well and has a generally good time, bond over mutual love and interest in nature
 # Saltmarsh
 - Keledek is a real asshole, looks down on Tiresias for being an elf
 - Uses Tiresias for menial work and taking down his self-important dictations
 - At one point Tiresias comes up with a minor magical breakthrough and Keledek steals it, takes credit from the [[Wizard Royal Academy]] for it, and later Tiresias finds out because it's *in his dications* and he's already forgotten that he stole it.
-- 
+-
