@@ -11,6 +11,7 @@
 ## ToDo (with Cian):
 - [ ] There's some timey-wimey stuff happening in the grove
 - [ ] I think Tiresias and Kolinth were friends as kids, bonded by their mutual curiosity about the wider world.
+- [ ] Flavour some spells as naturalist since they were learned from [[Bartimeus Haughtlach]]
 # [[Capital City]]
 - There's low-level prejudice towards non-humans in Keoland, something the elves are largely sheltered from and ignorant of
 	- There's a hierarchy - the more human-y you are, the less mistreated (i.e. elves and dwarves are treated better than lisardmen)
@@ -23,6 +24,8 @@
 - Uridin gets called called away for *reasons* and sends Tiresias to some of his colleagues for apprenticeship
 	- Uridin cobbles together a few of his colleagues who are each willing to take on Tiresias for a few months, and so between them he'll have mentorship while he's away
 # [[Smaller Town]]
-- [[Bartimeus Haughtlach]]
-# Saltmarsh + Surroundings
--
+- [[Bartimeus Haughtlach]] tutors Tiresias for a few months before he's sent to Saltmarsh to study under [[Keledek the Unspoken]]
+- Learns lots about nature and animals, and a little bit about magic 
+- Gets along well and has a generally good time, bond over mutual love and interest in nature
+# Saltmarsh
+- Keledek is a 
