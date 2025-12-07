@@ -14,6 +14,7 @@
 - [ ] I think Tiresias and Kolinth were friends as kids, bonded by their mutual curiosity about the wider world.
 - [ ] Flavour some spells as naturalist since they were learned from [[Bartimeus Haughtlach]]
 - [ ] Terms for telepathic people - one slur word and one regular term
+	- [ ] Slur: *Third-eye* 
 # [[Capital City]]
 - There's low-level prejudice towards non-humans in Keoland, something the elves are largely sheltered from and ignorant of
 	- There's a hierarchy - the more human-y you are, the less mistreated (i.e. elves and dwarves are treated better than lisardmen)
@@ -38,7 +39,6 @@
 # Grove timey wimey brainstorm
 - Time passes slower in the grove
 	- 1wk inside = 1yr outside, or something like that
-	- If this is the case, from Kolinth's point of view Tiresias left either like a week ago or many years ago
-
+	- If this is the case, from Kolinth's point of view Tiresias left a couple of weeks go
 - If you die in the grove, your spirit remains in the grove and you are reborn
 	- We don't know this yet, but outside of the grove this isn't true
