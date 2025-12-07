@@ -4,107 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "93d6a6ddc45146aa",
+        "id": "5295d482107fdd9c",
         "type": "tabs",
         "children": [
           {
-            "id": "589750f160fe5d69",
+            "id": "be5629e59a378363",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiresias.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tiresias"
-            }
-          },
-          {
-            "id": "ed70d3a15a179875",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Spirit.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Spirit"
-            }
-          },
-          {
-            "id": "47c7918819c5b1c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capital City.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Capital City"
-            }
-          },
-          {
-            "id": "2b76ae296fa71f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saltmarsh.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Saltmarsh"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,12 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed70d3a15a179875",
+  "active": "be5629e59a378363",
   "lastOpenFiles": [
+    "Tiresias.md",
     "Saltmarsh.md",
     "Capital City.md",
     "The Spirit.md",
-    "Tiresias.md",
     "Bartimeus Haughtlach.md",
     "Uridin Cloudstrider.md",
     "Smaller Town.md",
