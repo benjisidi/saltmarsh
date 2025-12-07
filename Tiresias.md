@@ -34,3 +34,14 @@
 - Uses Tiresias for menial work and taking down his self-important dictations
 - At one point Tiresias comes up with a minor magical breakthrough and Keledek steals it, takes credit from the [[Wizard Royal Academy]] for it, and later Tiresias finds out because it's *in his dications* and he's already forgotten that he stole it.
 -
+
+# Grove timey wimey brainstorm
+- The grove is in the past
+- The grove is in the future
+- The grove is in a time loop
+- Time passes slower/faster in the grove
+	- Relativity bullshit
+	- If this is the case, from Kolinth's po
+
+- If you die in the grove, your spirit remains in the grove and you are reborn
+	- We don't know this yet, but outside of the grove this isn't true
