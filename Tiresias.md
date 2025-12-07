@@ -36,12 +36,9 @@
 -
 
 # Grove timey wimey brainstorm
-- The grove is in the past
-- The grove is in the future
-- The grove is in a time loop
-- Time passes slower/faster in the grove
-	- Relativity bullshit
-	- If this is the case, from Kolinth's po
+- Time passes slower in the grove
+	- 1wk inside = 1yr outside, or something like that
+	- If this is the case, from Kolinth's point of view Tiresias left either like a week ago or many years ago
 
 - If you die in the grove, your spirit remains in the grove and you are reborn
 	- We don't know this yet, but outside of the grove this isn't true
