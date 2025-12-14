@@ -14,7 +14,7 @@
 - [ ] I think Tiresias and Kolinth were friends as kids, bonded by their mutual curiosity about the wider world.
 - [ ] Flavour some spells as naturalist since they were learned from [[Bartimeus Haughtlach]]
 - [ ] Terms for telepathic people - one slur word and one regular term
-	- [ ] Slur: *Third-eye* 
+	- [ ] Slur: *Third-eye*
 # [[Capital City]]
 - There's low-level prejudice towards non-humans in Keoland, something the elves are largely sheltered from and ignorant of
 	- There's a hierarchy - the more human-y you are, the less mistreated (i.e. elves and dwarves are treated better than lisardmen)
@@ -35,8 +35,7 @@
 - Uses Tiresias for menial work and taking down his self-important dictations
 - At one point Tiresias comes up with a minor magical breakthrough and Keledek steals it, takes credit from the [[Wizard Royal Academy]] for it, and later Tiresias finds out because it's *in his dications* and he's already forgotten that he stole it.
 -
-
-# Grove timey wimey brainstorm
+# Grove Timey Wimey Brainstorm
 - Time passes slower in the grove
 	- 1wk inside = 1yr outside, or something like that
 	- If this is the case, from Kolinth's point of view Tiresias left a couple of weeks go
