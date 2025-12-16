@@ -52,4 +52,5 @@ Created Date: 2025-12-16
 	- She pins down the strange bestial thing once more - feeling fear and rage mixed like a cornered animal
 	- She bonds with the bestial spirit and gains proficiency in animal handling
 > *We rest*
-- 
+- The next day, we make our way through the worst of the swamp and back onto more solid ground, arriving at the shores of the Dunwater river
+- There's a large cave entrance, looking deserted
