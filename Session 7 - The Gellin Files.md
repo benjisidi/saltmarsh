@@ -21,4 +21,6 @@ Created Date: 2025-12-16
 	- Gellin is trying to stay out of it and vaguely agreeing with Eda
 - Tiresias gets some new clothes and a haircut in an attempt to change his looks a bit following the previous night
 - Eda offers us 700gp to go through the marshes to the south, locate the lizardmen and find out what they want
+- While we wait to see Eda before we go, and a messenger tells us [[Anders Solomon]] wants to see us, and a guard also tells us [[Elander Fireborn]] wants to see us too!
+## Meeting Anders
 - 

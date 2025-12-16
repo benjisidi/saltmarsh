@@ -19,11 +19,10 @@
 	- ~~Misty Step~~
 	- Gust of Wind
 	- ~~Witchbolt~~
-	- Mage Armour
+	- ~~Mage Armour~~
 	- ~~Fog Cloud~~
 	- ~~Disguise Self~~
 - A spell book containing:
-	- Comprehend languages
+	- ~~Comprehend languages~~
 	- Tenser's floating disk
 	- ~~Shatter~~
-
