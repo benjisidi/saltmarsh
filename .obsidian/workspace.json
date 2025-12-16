@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 7 - TBC.md",
+                "file": "Session 7 - The Gellin Files.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 7 - TBC"
+              "title": "Session 7 - The Gellin Files"
             }
           }
         ]
@@ -214,10 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b57cf265cda86ea8",
+  "active": "0851cf08f8b5072d",
   "lastOpenFiles": [
-    "Session 7 - TBC.md",
     "Session 6 - Gellin is a Sea Prince.md",
+    "Session 7 - The Gellin Files.md",
     "Untitled 1.base",
     "Untitled.base",
     "Session 5 - Can you commit a crime against an animal?.md",
