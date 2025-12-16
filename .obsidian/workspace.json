@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7180838b2d6c53f7",
+        "id": "bd2f3b7a32200f81",
         "type": "tabs",
         "children": [
           {
-            "id": "2c439bb9562da440",
+            "id": "0851cf08f8b5072d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,11 +34,11 @@
         ]
       },
       {
-        "id": "9df6a3c32cfc29e8",
+        "id": "cd0d813b7953f15f",
         "type": "tabs",
         "children": [
           {
-            "id": "b885b4de8e72489f",
+            "id": "b57cf265cda86ea8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "silk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,10 +214,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c439bb9562da440",
+  "active": "b57cf265cda86ea8",
   "lastOpenFiles": [
-    "Session 6 - Gellin is a Sea Prince.md",
     "Session 7 - TBC.md",
+    "Session 6 - Gellin is a Sea Prince.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Session 5 - Can you commit a crime against an animal?.md",
+    "Aengus.md",
     "Tiresias.md",
     "Saltmarsh.md",
     "Capital City.md",
@@ -228,7 +233,6 @@
     "MM Tiresias.md",
     "Bag of Holding + Slush Fund.md",
     "Tiresias' Inventory.md",
-    "Session 5 - Can you commit a crime against an animal?.md",
     "Gellin Primewater.md",
     "Gellin Primewater's House.md",
     "Session 4 - Tertiated.md",
@@ -239,8 +243,6 @@
     "Eda Owland.md",
     "Elander Fireborn.md",
     "Guard Tower.md",
-    "Untitled 1.md",
-    "Tiresias Notebook.md",
     "templates"
   ]
 }
