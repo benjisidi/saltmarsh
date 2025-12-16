@@ -23,4 +23,6 @@ Created Date: 2025-12-16
 - Eda offers us 700gp to go through the marshes to the south, locate the lizardmen and find out what they want
 - While we wait to see Eda before we go, and a messenger tells us [[Anders Solomon]] wants to see us, and a guard also tells us [[Elander Fireborn]] wants to see us too!
 ## Meeting Anders
+- Anders seems fairly well-off judging by his house. It's large and well furnished.
+- He reiterates his offer still stands
 - 
