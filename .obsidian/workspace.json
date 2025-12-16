@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 7 - The Gellin Files.md",
+                "file": "Tiresias.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 7 - The Gellin Files"
+              "title": "Tiresias"
+            }
+          },
+          {
+            "id": "64325c827a520e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ludenham.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ludenham"
+            }
+          },
+          {
+            "id": "04aa33b5bc843ac1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Ash.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Ash"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pub",
+                "query": "capital ci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,13 +133,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766,
-    "collapsed": true
+    "width": 329.50418853759766
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -184,18 +231,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0851cf08f8b5072d",
+  "active": "04aa33b5bc843ac1",
   "lastOpenFiles": [
+    "Ludenham.md",
+    "Tiresias.md",
+    "Session 7 - The Gellin Files.md",
     "Session 1 - Big Scary House.md",
     "Session 6 - Gellin is a Sea Prince.md",
-    "Session 7 - The Gellin Files.md",
     "Untitled 1.base",
     "Untitled.base",
     "Session 5 - Can you commit a crime against an animal?.md",
     "Aengus.md",
-    "Tiresias.md",
     "Saltmarsh.md",
-    "Capital City.md",
     "The Spirit.md",
     "Bartimeus Haughtlach.md",
     "Uridin Cloudstrider.md",

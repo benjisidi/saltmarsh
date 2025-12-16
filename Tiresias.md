@@ -15,7 +15,7 @@
 - [ ] Flavour some spells as naturalist since they were learned from [[Bartimeus Haughtlach]]
 - [ ] Terms for telepathic people - one slur word and one regular term
 	- [ ] Slur: *Third-eye*
-# [[Capital City]]
+# [[Ludenham]]
 - There's low-level prejudice towards non-humans in Keoland, something the elves are largely sheltered from and ignorant of
 	- There's a hierarchy - the more human-y you are, the less mistreated (i.e. elves and dwarves are treated better than lisardmen)
 - Tiresias shows up at the [[Wizard Royal Academy]] and asks to join
