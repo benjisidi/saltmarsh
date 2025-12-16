@@ -20,4 +20,5 @@ Created Date: 2025-12-16
 	- Elander and Manistrad are also on that side, but not fully supported Eda
 	- Gellin is trying to stay out of it and vaguely agreeing with Eda
 - Tiresias gets some new clothes and a haircut in an attempt to change his looks a bit following the previous night
+- Eda offers us 700gp to go through the marshes to the south, locate the lizardmen and find out what they want
 - 
