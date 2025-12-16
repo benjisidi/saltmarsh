@@ -54,4 +54,9 @@ Created Date: 2025-12-16
 > *We rest*
 - The next day, we make our way through the worst of the swamp and back onto more solid ground, arriving at the shores of the Dunwater river
 - There's a large cave entrance, which we're pretty sure is the right place. But there's a snag - Kolinth sees something large in the water
-- 
+
+# The Throne Room
+- There's a whole load of different creatures in here
+	- Some Koalinth (aquatic hobgoblin)
+	- Some sea-anenonme creatures
+- The queen is attended by a senior shaman and several advis
