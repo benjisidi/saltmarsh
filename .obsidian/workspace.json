@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -312,11 +312,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0851cf08f8b5072d",
+  "active": "afa1fcfc9022c29f",
   "lastOpenFiles": [
+    "Session 7 - The Gellin Files.md",
     "Woven Thread.md",
     "Ludenham.md",
-    "Session 7 - The Gellin Files.md",
     "Tiresias' Inventory.md",
     "Eliander Fireborn.md",
     "Saltmarsh Council.md",
