@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0851cf08f8b5072d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 7 - The Gellin Files.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 7 - The Gellin Files"
-            }
-          },
-          {
             "id": "64325c827a520e5b",
             "type": "leaf",
             "state": {
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Ludenham"
+            }
+          },
+          {
+            "id": "0851cf08f8b5072d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 7 - The Gellin Files.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 7 - The Gellin Files"
             }
           },
           {
@@ -79,7 +79,8 @@
               "title": "The Ash"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a30e436d2dc911e9",
@@ -310,15 +311,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf54103679df5c8f",
+  "active": "0851cf08f8b5072d",
   "lastOpenFiles": [
+    "Woven Thread.md",
+    "Ludenham.md",
     "Session 7 - The Gellin Files.md",
-    "Eliander Fireborn.md",
     "Tiresias' Inventory.md",
+    "Eliander Fireborn.md",
     "Saltmarsh Council.md",
     "Bag of Holding + Slush Fund.md",
     "The Ash.md",
-    "Ludenham.md",
     "Tiresias.md",
     "Session 1 - Big Scary House.md",
     "Session 6 - Gellin is a Sea Prince.md",
@@ -339,7 +341,6 @@
     "Manistrad Copperlocks.md",
     "Anders Solomon.md",
     "Eda Owland.md",
-    "Guard Tower.md",
     "templates"
   ]
 }
