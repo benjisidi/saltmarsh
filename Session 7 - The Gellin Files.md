@@ -6,4 +6,10 @@ Created Date: 2025-12-16
 - Seems like he's heading to the [[Speakeasy]] run by [[Curtly]]
 	- We follow him there, and he heads upstairs to have a conversation with someone unknown - we don't manage to divine much more here
 	- Kolinth plays a song about Acheron in his honour
--
+- The party stake out the pub, but Harvey's contact does not emerge
+- Tiresias follows him back towards Gellin's manor and attempts to read his mind
+	- Gets seen
+	- Casts sleep
+	- Runs away
+	- No upside
+# The Council Meeting
