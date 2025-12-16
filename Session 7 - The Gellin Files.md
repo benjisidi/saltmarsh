@@ -19,4 +19,5 @@ Created Date: 2025-12-16
 	- Eda is exasperated and trying to maintain order
 	- Elander and Manistrad are also on that side, but not fully supported Eda
 	- Gellin is trying to stay out of it and vaguely agreeing with Eda
+- Tiresias gets some new clothes and a haircut in an attempt to change his looks a bit following the previous night
 - 
