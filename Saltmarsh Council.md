@@ -1,4 +1,4 @@
-- [[Elander Fireborn]]
+- [[Eliander Fireborn]]
 - [[Eda Owland]]
 - [[Gellin Primewater]]
 - [[Anders Solomon]]
