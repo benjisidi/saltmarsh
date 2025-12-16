@@ -34,5 +34,3 @@ Created Date: 2025-11-16
 - [[Tiresias]] telepathically goes *"I have a message from your friends off-shore. They're growing suspicious. Be careful."*
 	- He seems panicked, and believes the message
 	- Speaks to a servant immediately afterwards. Tiresias reads his mind and finds out where he's going.... (We'll pick this up next time!)
-# Executive Summary
-At the end of the session, recap what's happened for easy re-reading

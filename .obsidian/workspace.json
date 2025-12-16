@@ -8,13 +8,57 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2c439bb9562da440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 7 - TBC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 7 - TBC"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9df6a3c32cfc29e8",
+        "type": "tabs",
+        "children": [
+          {
             "id": "b885b4de8e72489f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Session 6 - Gellin is a Sea Prince.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 6 - Gellin is a Sea Prince"
             }
           }
         ]
@@ -169,8 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b885b4de8e72489f",
+  "active": "2c439bb9562da440",
   "lastOpenFiles": [
+    "Session 6 - Gellin is a Sea Prince.md",
+    "Session 7 - TBC.md",
     "Tiresias.md",
     "Saltmarsh.md",
     "Capital City.md",
@@ -183,7 +229,6 @@
     "Bag of Holding + Slush Fund.md",
     "Tiresias' Inventory.md",
     "Session 5 - Can you commit a crime against an animal?.md",
-    "Session 6 - Gellin is a Sea Prince.md",
     "Gellin Primewater.md",
     "Gellin Primewater's House.md",
     "Session 4 - Tertiated.md",
@@ -196,7 +241,6 @@
     "Guard Tower.md",
     "Untitled 1.md",
     "Tiresias Notebook.md",
-    "ToDo.md",
     "templates"
   ]
 }
