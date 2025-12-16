@@ -24,5 +24,5 @@
 	- ~~Disguise Self~~
 - A spell book containing:
 	- ~~Comprehend languages~~
-	- Tenser's floating disk
+	- ~~Tenser's floating disk~~
 	- ~~Shatter~~

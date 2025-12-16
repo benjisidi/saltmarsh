@@ -190,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elander",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -310,10 +310,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0851cf08f8b5072d",
+  "active": "cf54103679df5c8f",
   "lastOpenFiles": [
-    "Eliander Fireborn.md",
     "Session 7 - The Gellin Files.md",
+    "Eliander Fireborn.md",
     "Tiresias' Inventory.md",
     "Saltmarsh Council.md",
     "Bag of Holding + Slush Fund.md",
