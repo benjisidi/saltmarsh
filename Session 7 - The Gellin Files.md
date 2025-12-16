@@ -35,4 +35,5 @@ Created Date: 2025-12-16
 	- Most of the maps here look like prototypes - it's staffed by a slight cartographer
 	- He emphasises that we shouldn't tell anyone that this room exists - it would draw suspicion and worry if they found out the crown was creating detailed maps of the coastline
 ## Meeting Eda
+- Eda's in [[The Snapping Line]], surrounded by locals
 - 
