@@ -38,9 +38,18 @@ Created Date: 2025-12-16
 - Eda's in [[The Snapping Line]], surrounded by locals
 - She tells us we can meet the Brians in the morning and head through the swamp towards the lizardfolk
 - It's about a 15 hour trek there, we can just about make it in a day
+> *We rest*
 - Agavea continues to have dreams featuring bestial fighting, and flashes of [[Aengus]]' eyes
 # The Swamp
 - We pass [[Bracksmore]], head down through some coastal lowlands, and enter the marshy bog beyond
 - We pick up the charm trail without too much difficulty
 - The marshes are dense and cold, and progress is slow
--
+- Late in the day, a group of mollywogs comes out of the swamp and attacks us!
+	- We defeat them and save both Brians from becoming frog food
+	- The king shows up, but we scare him off and claim the pile of loot they had created nearby
+- We make camp where the mollywogs had originally been staying
+- Overnight, Agavea has another rage dream
+	- She pins down the strange bestial thing once more - feeling fear and rage mixed like a cornered animal
+	- She bonds with the bestial spirit and gains proficiency in animal handling
+> *We rest*
+- 

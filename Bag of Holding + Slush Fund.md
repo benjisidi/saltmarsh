@@ -1,5 +1,4 @@
 # Bag of Holding
-
 - Glassware
   - Klein Bottle
   - Dodecahedron
@@ -9,9 +8,7 @@
 - Hobgoblin's Scale Mail
 - 5 handfuls of jerky
 - +1 longsword
-
 # Slush Fund
-
 | Amount | Origin                                                          |
 | ------ | --------------------------------------------------------------- |
 | 8.5    | Chests in basement of [[Bracksmore]]                            |
