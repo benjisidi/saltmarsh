@@ -41,4 +41,6 @@ Created Date: 2025-12-16
 - Agavea continues to have dreams featuring bestial fighting, and flashes of [[Aengus]]' eyes
 # The Swamp
 - We pass [[Bracksmore]], head down through some coastal lowlands, and enter the marshy bog beyond
+- We pick up the charm trail without too much difficulty
+- The marshes are dense and cold, and progress is slow
 - 
