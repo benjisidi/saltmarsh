@@ -32,36 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "cd0d813b7953f15f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b57cf265cda86ea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 6 - Gellin is a Sea Prince.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 6 - Gellin is a Sea Prince"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -214,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b57cf265cda86ea8",
+  "active": "0851cf08f8b5072d",
   "lastOpenFiles": [
-    "Session 7 - The Gellin Files.md",
+    "Session 1 - Big Scary House.md",
     "Session 6 - Gellin is a Sea Prince.md",
+    "Session 7 - The Gellin Files.md",
     "Untitled 1.base",
     "Untitled.base",
     "Session 5 - Can you commit a crime against an animal?.md",
