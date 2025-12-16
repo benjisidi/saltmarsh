@@ -33,4 +33,4 @@ Created Date: 2025-11-16
 	- He finds that Gellin has a stack of private letters
 - [[Tiresias]] telepathically goes *"I have a message from your friends off-shore. They're growing suspicious. Be careful."*
 	- He seems panicked, and believes the message
-	- Speaks to a servant immediately afterwards. Tiresias reads his mind and finds out where he's going: *[[Harvey]]*
+	- Speaks to a servant immediately afterwards. Tiresias reads his mind and finds out where he's going: He's meeting [[Harvey Cutt]] and an image of a bar.
