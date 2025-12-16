@@ -1,4 +1,5 @@
 Created Date: 2025-12-16
+RELEASE THE GELLIN FILES
 # Gellin's Party
 - [[Tiresias]] goes to ask [[Agevea]] if she's heard of [[Harvey Cutt]] or where he might be found, but she hasn't heard of him and doesn't know where Saltmarsh's illicit activity tends to take place
 - [[Kolinth]] tells an absolute bomb of a story about rabbits and impresses exactly one man named Courtney
@@ -54,9 +55,11 @@ Created Date: 2025-12-16
 > *We rest*
 - The next day, we make our way through the worst of the swamp and back onto more solid ground, arriving at the shores of the Dunwater river
 - There's a large cave entrance, which we're pretty sure is the right place. But there's a snag - Kolinth sees something large in the water
-
+# The Lizardman Caves
+- The big thing turns out to be the a sea crocodile thing that the guards use as a mount
 # The Throne Room
 - There's a whole load of different creatures in here
 	- Some Koalinth (aquatic hobgoblin)
 	- Some sea-anenonme creatures
-- The queen is attended by a senior shaman and several advis
+- The queen is attended by a senior shaman and several advisors
+- Tiresias offers her the klein bottle from the manor as a gift

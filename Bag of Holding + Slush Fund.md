@@ -1,6 +1,5 @@
 # Bag of Holding
 - Glassware
-  - Klein Bottle
   - Dodecahedron
   - Three pronged test tube
   - A piece of a counterweight for alchemy
