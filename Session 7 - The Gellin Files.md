@@ -13,3 +13,7 @@ Created Date: 2025-12-16
 	- Runs away
 	- No upside
 # The Council Meeting
+- Eda Owland is talking about how concerning the lizardman news is
+- Anders Solomon goes off about how dangerous they are and that they need to be contained
+	- He tells us he'll pay us 5sp per lizardman tail we bring him, and chaos erupts
+- 
