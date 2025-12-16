@@ -29,3 +29,10 @@ Created Date: 2025-12-16
 ## Meeting Eliander
 - He tells us Anders only got on the council because his mother died
 - Eliander tells us the weapons we found were manufactured in [[Ludenham]] - it's a mystery how it ended up on a sea prince ship
+- He wants us to figure out where they came from - he can't overtly pay us, but he'll be in our debt
+	- Someone would have needed serious shipping connections to move that much stuff...
+- Eliander asks us to follow him and leads us to another room downstairs to a locked map room
+	- Most of the maps here look like prototypes - it's staffed by a slight cartographer
+	- He emphasises that we shouldn't tell anyone that this room exists - it would draw suspicion and worry if they found out the crown was creating detailed maps of the coastline
+## Meeting Eda
+- 
