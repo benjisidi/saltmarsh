@@ -53,4 +53,5 @@ Created Date: 2025-12-16
 	- She bonds with the bestial spirit and gains proficiency in animal handling
 > *We rest*
 - The next day, we make our way through the worst of the swamp and back onto more solid ground, arriving at the shores of the Dunwater river
-- There's a large cave entrance, looking deserted
+- There's a large cave entrance, which we're pretty sure is the right place. But there's a snag - Kolinth sees something large in the water
+- 
