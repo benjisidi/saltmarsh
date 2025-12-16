@@ -36,4 +36,9 @@ Created Date: 2025-12-16
 	- He emphasises that we shouldn't tell anyone that this room exists - it would draw suspicion and worry if they found out the crown was creating detailed maps of the coastline
 ## Meeting Eda
 - Eda's in [[The Snapping Line]], surrounded by locals
--
+- She tells us we can meet the Brians in the morning and head through the swamp towards the lizardfolk
+- It's about a 15 hour trek there, we can just about make it in a day
+- Agavea continues to have dreams featuring bestial fighting, and flashes of [[Aengus]]' eyes
+# The Swamp
+- We pass [[Bracksmore]], head down through some coastal lowlands, and enter the marshy bog beyond
+- 
