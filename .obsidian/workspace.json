@@ -190,7 +190,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "capital ci",
+                "query": "elander",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,12 +211,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766,
-    "collapsed": true
+    "width": 329.50418853759766
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -310,7 +310,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0851cf08f8b5072d",
+  "active": "2124b39d49170745",
   "lastOpenFiles": [
     "Tiresias' Inventory.md",
     "Saltmarsh Council.md",
