@@ -48,7 +48,7 @@ RELEASE THE GELLIN FILES
 - Late in the day, a group of mollywogs comes out of the swamp and attacks us!
 	- We defeat them and save both Brians from becoming frog food
 	- The king shows up, but we scare him off and claim the pile of loot they had created nearby
-- We make camp where the mollywogs had originally been staying
+- We make camp where the mollywogs had been keeping their loot
 - Overnight, Agavea has another rage dream
 	- She pins down the strange bestial thing once more - feeling fear and rage mixed like a cornered animal
 	- She bonds with the bestial spirit and gains proficiency in animal handling
@@ -57,6 +57,8 @@ RELEASE THE GELLIN FILES
 - There's a large cave entrance, which we're pretty sure is the right place. But there's a snag - Kolinth sees something large in the water
 # The Lizardman Caves
 - The big thing turns out to be the a sea crocodile thing that the guards use as a mount
+- We distract the guards away from the entrance with some lights, and sneak into the cavern
+- The 
 # The Throne Room
 - There's a whole load of different creatures in here
 	- Some Koalinth (aquatic hobgoblin)
