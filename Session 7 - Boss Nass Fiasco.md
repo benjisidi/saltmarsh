@@ -58,7 +58,11 @@ RELEASE THE GELLIN FILES
 # The Lizardman Caves
 - The big thing turns out to be the a sea crocodile thing that the guards use as a mount
 - We distract the guards away from the entrance with some lights, and sneak into the cavern
-- The 
+- One of the lizardmen has run into the cavern to warn the others, and goes left up a fork, so we go right
+- It turns out we've headed down a dead-end where the lizardfolk keep their most precious things - their youngsters and their treasure
+	- Curiously, there's no sign of weapons and armour in the vault
+- The lizardfolk fetched by the messenger find us as we have nowhere to hide, and (after panic-sleeping some of them) manage to convince them we're here in peace
+- There's a shaman with them who speaks common, and he says he's going to take us to their queen
 # The Throne Room
 - There's a whole load of different creatures in here
 	- Some Koalinth (aquatic hobgoblin)
