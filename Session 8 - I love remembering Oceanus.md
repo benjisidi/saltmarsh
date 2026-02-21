@@ -27,4 +27,6 @@ Another cell at the end of the hall contains a strange looking creature - it's c
 
 We discover from the guard that it's quite the opposite - the [[Daegon]] have risen from the depths and driven the Lizardfolk from their home in the ocean. We discover further from [[Sauriv]] that the various peoples we saw in the throne room are a council of war - the queen is preparing to fight them and retake the lizardfolk home. We suggest the humans might be willing to help, and setting up a meeting between some council members and the
 
-[[Oceanus]] tells us the [[Daegon]] are some of the first people
+[[Oceanus]] tells us more of the [[Creation Myth]] of the [[Daegon]] - are some of the primordial first peoples, dwelling in the darkness. 
+
+# Back in the t
