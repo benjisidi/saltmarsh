@@ -7,6 +7,7 @@
 - Hobgoblin's Scale Mail
 - 5 handfuls of jerky
 - +1 longsword
+- Topaz
 # Slush Fund
 | Amount | Origin                                                          |
 | ------ | --------------------------------------------------------------- |
@@ -20,3 +21,4 @@
 | 57.5   | Paper and ink for spell                                         |
 | 157.5  | Payment from Eliander in [[Session 6 - Gellin is a Sea Prince]] |
 | 183.5  | Mollywog spoils                                                 |
+| 189.6  | Lizardfolk city adventurer's backpack                           |

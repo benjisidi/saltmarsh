@@ -54,9 +54,32 @@
               "icon": "lucide-file",
               "title": "Session 8 - TBC"
             }
+          },
+          {
+            "id": "8bbc6c5918022f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bag of Holding + Slush Fund.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bag of Holding + Slush Fund"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,18 +232,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13c7dc0a699d90c3",
+  "active": "ae29b5499b70b7f5",
   "lastOpenFiles": [
+    "Session 8 - TBC.md",
+    "Bag of Holding + Slush Fund.md",
     "Session 7 - Boss Nass Fiasco.md",
     "The Ash.md",
     "Session 1 - Big Scary House.md",
     "Tiresias.md",
     "Silverstand.md",
-    "Session 8 - TBC.md",
     "Session 6 - Gellin is a Sea Prince.md",
     "Saltmarsh Council.md",
     "Tiresias' Inventory.md",
-    "Bag of Holding + Slush Fund.md",
     "Ludenham.md",
     "Woven Thread.md",
     "Eliander Fireborn.md",
