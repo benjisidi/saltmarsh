@@ -14,7 +14,7 @@ The queen demands to know why we're there. We bend the truth a bit, and say we'r
 
 Oceans hasn't heard anything about the threat either, but lets us know his people have a longstanding feud with the Locathah.
 
-Sauriv the adviser comes to talk to us afterwards and suggests we explore the city and show that we are trustworthy and mean no harm to the inhabitants.
+[[Sauriv]] the adviser comes to talk to us afterwards and suggests we explore the city and show that we are trustworthy and mean no harm to the inhabitants.
 # Exploring the Lizardfolk City
 We go exploring and find an empty banquet hall, with carved stone low-seated benches next to tables. The next room we come to is some sort of training room full of practice dummies and lizardfolk warriors practicing. [[Agevea]] stays here while [[Kolinth]] and [[Tiresias]] keep exploring.
 
@@ -25,4 +25,4 @@ K&T continue to explore and find a trash pile - inside it is a clearly more huma
 The cells appear to be fairly expansive - it descends from the door into waist deep water. There's a very confused looking lizardfolk chained to the wall in there.
 Another cell at the end of the hall contains a strange looking creature - it's covered in coral (a bit like the Davy Jones crew), and looks a little like a humanoid moray eel. They speak common! They say the lizardfolk are at war with the Daegon(?). They're from deep under the sea and say the lizardfolk are always expanding. 
 
-We discover from the guard that it's quite the opposite - the [[Daegon]] have risen from the depths and driven the Lizardfolk from their home in the ocean. We discover further from 
+We discover from the guard that it's quite the opposite - the [[Daegon]] have risen from the depths and driven the Lizardfolk from their home in the ocean. We discover further from [[Sauriv]] that the various peoples we saw in the throne room are a council of war - the queen is 
