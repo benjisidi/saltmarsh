@@ -88,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wood",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,12 +109,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766,
-    "collapsed": true
+    "width": 329.50418853759766
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -208,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9a0ff065a95e207",
+  "active": "2124b39d49170745",
   "lastOpenFiles": [
     "Session 7 - Boss Nass Fiasco.md",
     "Session 8 - TBC.md",
