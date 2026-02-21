@@ -19,4 +19,5 @@ Sauriv the adviser comes to talk to us afterwards and suggests we explore the ci
 # Exploring the Lizardfolk City
 We go exploring and find an empty banquet hall, with carved stone low-seated benches next to tables. The next room we come to is some sort of training room full of practice dummies and lizardfolk warriors practicing. [[Agevea]] stays here while [[Kolinth]] and [[Tiresias]] keep exploring.
 
-Agavea takes a training weapon from the wall (a large staff), walks over to one of the training dummies and absolutely smashes it in a single swing. 
+Agavea takes a training weapon from the wall (a large staff), walks over to one of the training dummies and absolutely smashes it in a single swing. The soldiers in the room challenge her to sumo wrestling, and she wins convincingly.
+
