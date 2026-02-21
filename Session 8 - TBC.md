@@ -10,4 +10,4 @@ On seeing [[Oceanus]], the Koalinth and he meanmug each other. *There's somethin
 
 The queen is much bigger than the other Lizardfolk, and is flanked by military and civil advisers. The throne room seems to be split between more common lizardfolk and a shamanic sub-group who are clearly magic users (full face bone masks).
 
-
+The queen demands to know why we're there. We bend the truth a bit, and say we're here independently as concerned citizens from Saltmarsh with connections to the council. We tell her they're concerned about the weapons shipments and she's incredulous - apparently 1. they don't care about the humans at all and 2. there's some threat that we don't know about
