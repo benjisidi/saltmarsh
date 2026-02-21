@@ -79,8 +79,7 @@
               "title": "Bag of Holding + Slush Fund"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,11 +232,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bbc6c5918022f05",
+  "active": "ae29b5499b70b7f5",
   "lastOpenFiles": [
+    "Bag of Holding + Slush Fund.md",
     "Tiresias' Inventory.md",
     "Session 8 - I love remembering Oceanus.md",
-    "Bag of Holding + Slush Fund.md",
     "Creation Myth.md",
     "Daegon.md",
     "Session 7 - Boss Nass Fiasco.md",
