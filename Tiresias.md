@@ -1,5 +1,5 @@
 - In Saltmarsh to contact [[Keledek the Unspoken]].
-# Eladrin Grove
+# Eladrin Grove ([[Silverstand]])
 - Telepathy is known and accepted here
 - Tiresias knew [[Kolinth]] as children here
 - Tiresias was curious about the outside world as the grove is quite cloistered
@@ -34,7 +34,6 @@
 - Keledek is a real asshole, looks down on Tiresias for being an elf
 - Uses Tiresias for menial work and taking down his self-important dictations
 - At one point Tiresias comes up with a minor magical breakthrough and Keledek steals it, takes credit from the [[Woven Thread]] for it, and later Tiresias finds out because it's *in his dications* and he's already forgotten that he stole it.
--
 # Grove Timey Wimey Brainstorm
 - Time passes slower in the grove
 	- 1wk inside = 1yr outside, or something like that

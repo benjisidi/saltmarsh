@@ -1,0 +1,1 @@
+The Eladrin grove that [[Tiresias]] and [[Kolinth]] are from.
