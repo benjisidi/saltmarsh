@@ -66,6 +66,6 @@ RELEASE THE GELLIN FILES
 # The Throne Room
 - There's a whole load of different creatures in here
 	- Some Koalinth (aquatic hobgoblin)
-	- Some sea-anenonme creatures
+	- Some sea-anemone creatures
 - The queen is attended by a senior shaman and several advisors
 - Tiresias offers her the klein bottle from the manor as a gift

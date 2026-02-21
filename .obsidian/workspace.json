@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Session 7 - Boss Nass Fiasco"
             }
+          },
+          {
+            "id": "b9a0ff065a95e207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 8 - TBC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 8 - TBC"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae29b5499b70b7f5",
+  "active": "b9a0ff065a95e207",
   "lastOpenFiles": [
-    "Session 6 - Gellin is a Sea Prince.md",
     "Session 7 - Boss Nass Fiasco.md",
+    "Session 8 - TBC.md",
+    "Session 6 - Gellin is a Sea Prince.md",
     "Saltmarsh Council.md",
     "Tiresias' Inventory.md",
     "Bag of Holding + Slush Fund.md",
@@ -212,7 +238,6 @@
     "Creation Myth.md",
     "Manistrad Copperlocks.md",
     "Anders Solomon.md",
-    "Eda Owland.md",
     "templates"
   ]
 }
