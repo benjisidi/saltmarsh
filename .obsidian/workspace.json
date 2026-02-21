@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 8 - TBC.md",
+                "file": "Session 8 - I love remembering Oceanus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 8 - TBC"
+              "title": "Session 8 - I love remembering Oceanus"
             }
           },
           {
@@ -79,7 +79,8 @@
               "title": "Bag of Holding + Slush Fund"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,11 +233,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae29b5499b70b7f5",
+  "active": "13c7dc0a699d90c3",
   "lastOpenFiles": [
-    "Session 8 - TBC.md",
-    "Bag of Holding + Slush Fund.md",
     "Session 7 - Boss Nass Fiasco.md",
+    "Session 8 - I love remembering Oceanus.md",
+    "Bag of Holding + Slush Fund.md",
     "The Ash.md",
     "Session 1 - Big Scary House.md",
     "Tiresias.md",

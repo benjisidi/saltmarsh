@@ -20,4 +20,4 @@ We go exploring and find an empty banquet hall, with carved stone low-seated ben
 
 Agavea takes a training weapon from the wall (a large staff), walks over to one of the training dummies and absolutely smashes it in a single swing. The soldiers in the room challenge her to sumo wrestling, and she wins convincingly.
 
-K&T continue to explore and find a trash pile - inside it is a clearly more humanoid backpack. It's a little bloodstained and has some wear and tear on it. Seems to have been here for a while.
+K&T continue to explore and find a trash pile - inside it is a clearly more humanoid backpack. It's a little bloodstained and has some wear and tear on it. Seems to have been here for a while. Some of the passages up ahead seem to lead to light, and following them the first leads to a locked gate. We decide to be good guests and not go through - the other passage leads towards a guard post. Passing it we head down some stairs into what seems to be a prison.
