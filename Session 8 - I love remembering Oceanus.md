@@ -27,8 +27,8 @@ Another cell at the end of the hall contains a strange looking creature - it's c
 
 We discover from the guard that it's quite the opposite - the [[Daegon]] have risen from the depths and driven the Lizardfolk from their home in the ocean. We discover further from [[Sauriv]] that the various peoples we saw in the throne room are a council of war - the queen is preparing to fight them and retake the lizardfolk home. We suggest the humans might be willing to help, and setting up a meeting between some council members and the
 
-[[Oceanus]] tells us more of the [[Creation Myth]] of the [[Daegon]] - are some of the primordial first peoples, dwelling in the darkness. 
-# Back in the throne room
+[[Oceanus]] tells us more of the [[Creation Myth]] of the [[Daegon]] - are some of the primordial first peoples, dwelling in the darkness.
+# Back in the Throne Room
 The various groups have split out into their own areas. The atmosphere is tense - these people clearly aren't used to working together. [[Queen Othoket]] says her impression of humans so far has been poor (the sea princes) but that she understands that we're not associated with them. We admit we killed the sea princes that had their weapons and that they are our enemies.
 
 Before we arrange a meet, the queen asks us another favour: her son is a guardian of one of their sacred pools, where they treat with crocodiles. There is a dark presence there and she needs someone to deal with the *thousandtooth* there - the guardians are not able to and nobody else is allowed to bring violence to the pool.

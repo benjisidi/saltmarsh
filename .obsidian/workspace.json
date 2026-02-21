@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,12 +233,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13c7dc0a699d90c3",
+  "active": "8bbc6c5918022f05",
   "lastOpenFiles": [
+    "Tiresias' Inventory.md",
+    "Session 8 - I love remembering Oceanus.md",
     "Bag of Holding + Slush Fund.md",
     "Creation Myth.md",
     "Daegon.md",
-    "Session 8 - I love remembering Oceanus.md",
     "Session 7 - Boss Nass Fiasco.md",
     "The Ash.md",
     "Session 1 - Big Scary House.md",
@@ -246,7 +247,6 @@
     "Silverstand.md",
     "Session 6 - Gellin is a Sea Prince.md",
     "Saltmarsh Council.md",
-    "Tiresias' Inventory.md",
     "Ludenham.md",
     "Woven Thread.md",
     "Eliander Fireborn.md",

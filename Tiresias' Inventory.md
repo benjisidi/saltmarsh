@@ -13,6 +13,7 @@
 	- *The magical properties of herbs and flowers by the archmage Tensor*
 	- *The metaphysics of mathematics by the mage Nystul*
 	- *Grog Hovels* - guidebook of the best pubs across the coast
+- Thousandtooth Tooth (the big lisardfolk croc)
 # Spellbook
 - Sea Prince Mage's spellbook
 	- Melph's Acid Arrow
