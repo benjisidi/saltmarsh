@@ -24,3 +24,5 @@ K&T continue to explore and find a trash pile - inside it is a clearly more huma
 
 The cells appear to be fairly expansive - it descends from the door into waist deep water. There's a very confused looking lizardfolk chained to the wall in there.
 Another cell at the end of the hall contains a strange looking creature - it's covered in coral (a bit like the Davy Jones crew), and looks a little like a humanoid moray eel. They speak common! They say the lizardfolk are at war with the Daegon(?). They're from deep under the sea and say the lizardfolk are always expanding. 
+
+We discover from the guard that it's quite the opposite - the [[Daegon]] have risen from the depths and driven the Lizardfolk from their home in the ocean. We discover further from 
