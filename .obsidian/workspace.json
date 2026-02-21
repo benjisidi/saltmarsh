@@ -11,10 +11,24 @@
             "id": "ae29b5499b70b7f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Session 7 - Boss Nass Fiasco.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 7 - Boss Nass Fiasco"
             }
           }
         ]
@@ -70,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,17 +185,17 @@
   },
   "active": "ae29b5499b70b7f5",
   "lastOpenFiles": [
+    "Session 6 - Gellin is a Sea Prince.md",
+    "Session 7 - Boss Nass Fiasco.md",
     "Saltmarsh Council.md",
     "Tiresias' Inventory.md",
     "Bag of Holding + Slush Fund.md",
     "Ludenham.md",
     "The Ash.md",
-    "Session 7 - Boss Nass Fiasco.md",
     "Woven Thread.md",
     "Eliander Fireborn.md",
     "Tiresias.md",
     "Session 1 - Big Scary House.md",
-    "Session 6 - Gellin is a Sea Prince.md",
     "Untitled 1.base",
     "Untitled.base",
     "Session 5 - Can you commit a crime against an animal?.md",
