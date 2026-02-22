@@ -21,6 +21,3 @@ Bread + Cheese
 Oilskin of water
 Tin with wax
 Bundle of rope
-
-
-
