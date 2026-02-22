@@ -1,3 +1,7 @@
+Kiron
+Leterias
+Flores
+
 City of Caledon
 Mountains/Shoreline
 - Temple of Zeus
@@ -7,3 +11,5 @@ Mountains/Shoreline
 King Aenaes planned harvest festival and footrace
 
 Kiron wins the footrace
+
+
