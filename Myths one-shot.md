@@ -15,3 +15,12 @@ Kiron wins the footrace
 A huge boar charges into the clearing and starts 
 
 
+
+---
+Bread + Cheese
+Oilskin of water
+Tin with wax
+Bundle of rope
+
+
+
