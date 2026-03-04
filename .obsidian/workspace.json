@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "Myths one-shot"
             }
-          },
-          {
-            "id": "b8b9fde12a330518",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8b9fde12a330518",
+  "active": "2feebbaf8a9bea70",
   "lastOpenFiles": [
     "Myths one-shot.md",
     "Bag of Holding + Slush Fund.md",
