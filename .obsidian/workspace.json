@@ -11,10 +11,24 @@
             "id": "5a80c86317371f5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Session 8 - I love remembering Oceanus.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 8 - I love remembering Oceanus"
             }
           }
         ]
@@ -70,13 +84,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766,
-    "collapsed": true
+    "width": 329.50418853759766
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -172,6 +184,7 @@
   },
   "active": "5a80c86317371f5b",
   "lastOpenFiles": [
+    "Untitled 2.base",
     "Myths one-shot.md",
     "Bag of Holding + Slush Fund.md",
     "Session 8 - I love remembering Oceanus.md",
@@ -199,7 +212,6 @@
     "Smaller Town.md",
     "MM Tiresias.md",
     "Gellin Primewater.md",
-    "Gellin Primewater's House.md",
     "templates"
   ]
 }
