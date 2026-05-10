@@ -15,6 +15,7 @@ The council are sending an envoy via boat to the lizardfolk to arrange a meeting
 ## Our leads
 - Above the speakeasy, one of Gellin's cronies is doing something shady
 - Gellin wants whatever is in the box *badly*
-- 
+- Investigate the [[Daegon]]
+- Why are [[The Ash]] in town
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
