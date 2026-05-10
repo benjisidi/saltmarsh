@@ -8,6 +8,6 @@ When we arrive, we're informed Gellin would like to see Agavea first. Tiresias g
 
 Gellin says that he's recently discovered that some of his property (box) is at sea, he has a crew and ship to retrieve it, and they're missing some bite. He wants the party to fill that role, and they're planning on leaving in about 5 days and we should stay available.
 
-
+> *In Gellin's mind: enjoying baiting Agavea, and the fact that he feels like he's outsmarted us. There's tension in his request - he needs this to go well. The box provokes deep desire and worry: he's afraid of what's inside.*
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
