@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gp",
+                "query": "700",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

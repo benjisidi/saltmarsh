@@ -22,5 +22,6 @@
 | 157.5  | Payment from Eliander in [[Session 6 - Gellin is a Sea Prince]] |
 | 183.5  | Mollywog spoils                                                 |
 | 189.6  | Lizardfolk city adventurer's backpack                           |
+| 289.9  | Payment for [[Session 7 - Boss Nass Fiasco]]                    |
 # Grimoire Sketches
 - Two lizardfolk performing a ritual over the dead body of the Thousandtooth
