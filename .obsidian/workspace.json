@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,7 +156,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,8 +257,10 @@
   },
   "active": "5a80c86317371f5b",
   "lastOpenFiles": [
-    "Tiresias.md",
+    "Session 6 - Gellin is a Sea Prince.md",
+    "Session 7 - Boss Nass Fiasco.md",
     "Session 9 - TBC.md",
+    "Tiresias.md",
     "Anders Solomon.md",
     "Saltmarsh Council.md",
     "Session 8 - I love remembering Oceanus.md",
@@ -265,13 +268,11 @@
     "Untitled 2.base",
     "Myths one-shot.md",
     "Bag of Holding + Slush Fund.md",
-    "Session 7 - Boss Nass Fiasco.md",
     "Creation Myth.md",
     "Daegon.md",
     "The Ash.md",
     "Session 1 - Big Scary House.md",
     "Silverstand.md",
-    "Session 6 - Gellin is a Sea Prince.md",
     "Ludenham.md",
     "Woven Thread.md",
     "Eliander Fireborn.md",
