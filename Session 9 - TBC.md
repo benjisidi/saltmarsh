@@ -6,8 +6,10 @@ Gellin tells the party he knows one of them is a [[third-eye]], and that he know
 # Gellin for Breakfast
 When we arrive, we're informed Gellin would like to see Agavea first. Tiresias goes to a privy nearby and manages to read Gellin's thoughts during the meeting.
 
-Gellin says that he's recently discovered that some of his property (box) is at sea, he has a crew and ship to retrieve it, and they're missing some bite. He wants the party to fill that role, and they're planning on leaving in about 5 days and we should stay available.
+Gellin says that he's recently discovered that some of his property (box) is at sea, he has a crew and ship to retrieve it, and they're missing some bite. He wants the party to fill that role, and they're planning on leaving in about 5 days and we should stay available. He offers us 900GP for the job.
 
 > *In Gellin's mind: enjoying baiting Agavea, and the fact that he feels like he's outsmarted us. There's tension in his request - he needs this to go well. The box provokes deep desire and worry: he's afraid of what's inside.*
+# The Council
+
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
