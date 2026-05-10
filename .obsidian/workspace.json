@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f9d0224260bd2f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bag of Holding + Slush Fund.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bag of Holding + Slush Fund"
+            }
+          },
+          {
             "id": "6fd94528ed7e026a",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "Anders Solomon"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,15 +281,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a80c86317371f5b",
+  "active": "f9d0224260bd2f0c",
   "lastOpenFiles": [
-    "Tiresias.md",
     "Session 9 - TBC.md",
-    "Daegon.md",
+    "Anders Solomon.md",
+    "Manistrad Copperlocks.md",
     "Saltmarsh Council.md",
+    "Tiresias.md",
+    "Daegon.md",
     "Session 6 - Gellin is a Sea Prince.md",
     "Session 7 - Boss Nass Fiasco.md",
-    "Anders Solomon.md",
     "Session 8 - I love remembering Oceanus.md",
     "Tiresias' Inventory.md",
     "Untitled 2.base",
@@ -286,7 +312,6 @@
     "Bartimeus Haughtlach.md",
     "Uridin Cloudstrider.md",
     "Smaller Town.md",
-    "MM Tiresias.md",
     "templates"
   ]
 }
