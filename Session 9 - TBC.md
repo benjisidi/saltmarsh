@@ -10,5 +10,6 @@ Gellin says that he's recently discovered that some of his property (box) is at 
 
 > *In Gellin's mind: enjoying baiting Agavea, and the fact that he feels like he's outsmarted us. There's tension in his request - he needs this to go well. The box provokes deep desire and worry: he's afraid of what's inside.*
 # The Council
+The council are sending an envoy via boat to the lizardfolk to arrange a meeting on the edge of the marsh as we suggested. Gellin tells them he's contracted us for some shipping work and asks if they're all okay with it.
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
