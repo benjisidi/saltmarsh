@@ -10,6 +10,5 @@ Gellin says that he's recently discovered that some of his property (box) is at 
 
 > *In Gellin's mind: enjoying baiting Agavea, and the fact that he feels like he's outsmarted us. There's tension in his request - he needs this to go well. The box provokes deep desire and worry: he's afraid of what's inside.*
 # The Council
-
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
