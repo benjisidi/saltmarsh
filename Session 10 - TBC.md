@@ -43,3 +43,6 @@ During his meditation, a strange frog-like nymph approaches Tiresias in the spir
 # Sailing Day 2
 Kolinth spends the day up in the crow's nest, warged into [[Aurora]]. He tries to divine where we're going, but doesn't find anything of note.
 
+As night falls, the surface of the ocean glows softly with a strange phosphorescence. *Detect Magic* suggests it's from the school of evocation.
+
+In the early hours of the morning, Kolinth is standing on the deck, when
