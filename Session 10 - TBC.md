@@ -29,4 +29,4 @@ Boarding the [[Soul of Winter]] in the morning, amidst the hustle and bustle, we
 
 [[Kolinth]] introduces himself, and the priest says he's [[Garval]] - he's not expecting any trouble, and we're to find the box and deliver it to him. He's pretty stone-faced: Kolinth struggles to get through to him at all.
 
-The party decide to ingratiate themselves with the crew: Agavea helps the crew prep the ship, Kolinth goes to the kitchens and makes friends with the cook (using mushrooms) 
+The party decide to ingratiate themselves with the crew: Agavea helps the crew prep the ship, Kolinth goes to the kitchens and makes friends with the cook (using mushrooms), and Tiresias with Tenser's Floating Disk. 
