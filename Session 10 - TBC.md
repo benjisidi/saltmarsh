@@ -34,3 +34,4 @@ Tiresias tries to use *detect thoughts* on Garval, but gets nothing back, just l
 
 According to [[Agevea]], the route we're following isn't one of the known shipping lanes, and we're moving somewhat erratically out into the ocean. Every now and then, [[Garval]] retreats to his cabin and emerges with new directions.
 
+Kolinth is inspired by the crew's sea shanties and decides to do some work on *Gellin is a Sea Prince.* He finds his songbook covered in even more annotations than before...
