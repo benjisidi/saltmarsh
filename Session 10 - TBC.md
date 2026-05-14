@@ -14,4 +14,8 @@ The grove is made up of a ~25m wide circle of large henges, within which the mar
 
 Ferrin has heard of the Daegon. The legends say there aren't mythological apparitions or beasts - they're a people with culture etc. However, they hate pretty much everything that is not them; they believe themselves to be devourers. Their objective is to destroy everything in the world.
 
-The legends say they were sealed "in the depths" by the first peoples. He councils us to have empathy for the Daegon, as all creatures have souls.
+The legends say they were sealed "in the depths" by the first peoples. He councils us to have empathy for the Daegon, as all creatures have souls - though not all deserve mercy. He also advises us to be very careful in the spirit, and avoid acts of great magic in the grove as the walls here are very thin.
+
+On the way back, [[Kolinth]] notices some marginalia in his songbook that he doesn't remember writing... (They *might* be in his own hand? Unclear.)
+
+# 
