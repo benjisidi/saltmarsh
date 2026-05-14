@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "55b41a213ef499ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kolinths Songbook.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kolinths Songbook"
+            }
+          },
+          {
             "id": "a74715abfc2b4e4b",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "Tiresias"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9037c6a8d4fc55ee",
@@ -333,14 +358,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcbcbd295aeff713",
+  "active": "55b41a213ef499ad",
   "lastOpenFiles": [
-    "Tiresias' Inventory.md",
+    "Kolinths Songbook.md",
     "Session 10 - TBC.md",
+    "Bag of Holding + Slush Fund.md",
+    "Tiresias' Inventory.md",
     "Tiresias.md",
     "Soul of Winter.md",
     "The Snapping Line.md",
-    "Bag of Holding + Slush Fund.md",
     "The Ash.md",
     "Session 8 - I love remembering Oceanus.md",
     "Ferrin Kastilar.md",
@@ -362,7 +388,6 @@
     "Session 5 - Can you commit a crime against an animal?.md",
     "Aengus.md",
     "Saltmarsh.md",
-    "The Spirit.md",
     "templates"
   ]
 }
