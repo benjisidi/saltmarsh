@@ -37,3 +37,5 @@ According to [[Agevea]], the route we're following isn't one of the known shippi
 Kolinth is inspired by the crew's sea shanties and decides to do some work on *Gellin is a Sea Prince.* He finds his songbook covered in even more annotations than before...
 
 In the middle of the night, Garval goes up on deck and gives Aubrey new directions. Agevea has another bestial nightmare during the night.
+
+During his 
