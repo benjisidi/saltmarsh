@@ -17,5 +17,5 @@ Ferrin has heard of the Daegon. The legends say there aren't mythological appari
 The legends say they were sealed "in the depths" by the first peoples. He councils us to have empathy for the Daegon, as all creatures have souls - though not all deserve mercy. He also advises us to be very careful in the spirit, and avoid acts of great magic in the grove as the walls here are very thin.
 
 On the way back, [[Kolinth]] notices some marginalia in his songbook that he doesn't remember writing... (They *might* be in his own hand? Unclear.)
-
-# 
+# Chatting to Gelin's Crew
+The day before we're due to cast off on the [[Soul of Winter]], we head to the docks and introduce ourselves to [[Aubrey]] the first mate and quartermaster. [[The Snapping Line]]
