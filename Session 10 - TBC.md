@@ -22,4 +22,4 @@ The day before we're due to cast off on the [[Soul of Winter]], we head to the d
 
 [[Tiresias]] tries to use *Augery* with the necromancer's runic rib bones, and finds himself sitting opposite the remains of the necromancer in the spirit. He points to a tarot-like card suggesting neither good nor bad outcomes from trying to sweet-talk the crew.
 
-We find [[Aubrey]] in [[The Snapping Line]], 
+We find [[Aubrey]] in [[The Snapping Line]], and find that the priest's name is [[Garval]] and the captain is [[Old Thom]] (a familiar veteran sailor who passes through a lot). She tells us this is the highest paying, strangest job Gellin has given her.
