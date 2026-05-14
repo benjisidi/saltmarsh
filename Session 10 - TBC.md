@@ -12,3 +12,6 @@ The marshes on the way to Ferrin's grove are misty and humid, a little like the 
 
 The grove is made up of a ~25m wide circle of large henges, within which the marsh gives way to a wild garden of grass and wildflowers.
 
+Ferrin has heard of the Daegon. The legends say there aren't mythological apparitions or beasts - they're a people with culture etc. However, they hate pretty much everything that is not them; they believe themselves to be devourers. Their objective is to destroy everything in the world.
+
+The legends say they were sealed "in the depths" by the first peoples
