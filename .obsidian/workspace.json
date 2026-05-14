@@ -181,7 +181,8 @@
               "title": "Bag of Holding + Slush Fund"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766
+    "width": 329.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -332,23 +334,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35919c81a177ead6",
+  "active": "dcbcbd295aeff713",
   "lastOpenFiles": [
-    "Bag of Holding + Slush Fund.md",
+    "The Ash.md",
+    "Tiresias' Inventory.md",
     "Session 10 - TBC.md",
+    "Bag of Holding + Slush Fund.md",
     "Soul of Winter.md",
     "Session 8 - I love remembering Oceanus.md",
     "Ferrin Kastilar.md",
     "Creation Myth.md",
     "Tiresias.md",
-    "Tiresias' Inventory.md",
     "Saltmarsh Council.md",
     "Anders Solomon.md",
     "Eda Owland.md",
     "Myths one-shot.md",
     "Session 7 - Boss Nass Fiasco.md",
     "Daegon.md",
-    "The Ash.md",
     "Session 1 - Big Scary House.md",
     "Silverstand.md",
     "Session 6 - Gellin is a Sea Prince.md",
