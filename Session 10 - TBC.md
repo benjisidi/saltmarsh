@@ -20,3 +20,6 @@ On the way back, [[Kolinth]] notices some marginalia in his songbook that he doe
 # Chatting to Gelin's Crew
 The day before we're due to cast off on the [[Soul of Winter]], we head to the docks and introduce ourselves to [[Aubrey]] the first mate and quartermaster. She tells us there's a strange crew manifest - a priest is coming with us (???), and she's been advised to follow his directions to find a missing ship at sea, which we're supposed to then board.
 
+[[Tiresias]] tries to use *Augery* with the necromancer's runic rib bones, and finds himself sitting opposite the remains of the necromancer in the spirit. He points to a tarot-like card suggesting neither good nor bad outcomes from trying to sweet-talk the crew.
+
+We find [[Aubrey]] in [[The Snapping Line]], 
