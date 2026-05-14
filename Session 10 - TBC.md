@@ -23,10 +23,10 @@ The day before we're due to cast off on the [[Soul of Winter]], we head to the d
 [[Tiresias]] tries to use *Augery* with the necromancer's runic rib bones, and finds himself sitting opposite the remains of the necromancer in the spirit. He points to a tarot-like card suggesting neither good nor bad outcomes from trying to sweet-talk the crew.
 
 We find [[Aubrey]] in [[The Snapping Line]], and find that the priest's name is [[Garval]] and the captain is [[Old Thom]] (a familiar veteran sailor who passes through a lot). She tells us this is the highest paying, strangest job Gellin has given her. We sell the +1 longsword in the [[Bag of Holding + Slush Fund]] for 250gp. (80 each, 10 for slush fund).
-
 # Setting Sail
 Boarding the [[Soul of Winter]] in the morning, amidst the hustle and bustle, we see an austere looking young man with close-cropped blonde hair. He carries himself in a stiff, haughty way, and is standing at the front of the ship like he owns it.
 
 [[Kolinth]] introduces himself, and the priest says he's [[Garval]] - he's not expecting any trouble, and we're to find the box and deliver it to him. He's pretty stone-faced: Kolinth struggles to get through to him at all.
 
-The party decide to ingratiate themselves with the crew: Agavea helps the crew prep the ship, Kolinth goes to the kitchens and makes friends with the cook (using mushrooms), and Tiresias with Tenser's Floating Disk. 
+The party decide to ingratiate themselves with the crew: Agavea helps the crew prep the ship and becomes one of the crowd, Kolinth goes to the kitchens and makes friends with the cook (using mushrooms), and Tiresias with Tenser's Floating Disk.
+
