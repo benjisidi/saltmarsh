@@ -6,3 +6,6 @@ He wants us to tell him in detail everything we saw in the lizardfolk settlement
 
 We manage to persuade him somewhat that the [[Daegon]] are the real threat but it's hard to see if he's bought it fully.
 
+Tiresias writes to [[Bartimeus Haughtlach]] to see if he knows anything about the lizardfolk/daegon, and includes a detailed sketch of the one we saw.
+
+# Visiting 
