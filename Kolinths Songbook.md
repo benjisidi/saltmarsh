@@ -1,3 +1,3 @@
 - A really bad song about rabbits
 - Gellin is a Sea Prince (work in progress - great music, *so* catchy, not subtle at all)
-- Incredible song about Bug the Frog (jazzy - improvisational fe)
+- Incredible song about Bug the Frog (jazzy - improvisational feel)
