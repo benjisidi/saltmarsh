@@ -7,5 +7,8 @@ He wants us to tell him in detail everything we saw in the lizardfolk settlement
 We manage to persuade him somewhat that the [[Daegon]] are the real threat but it's hard to see if he's bought it fully.
 
 Tiresias writes to [[Bartimeus Haughtlach]] to see if he knows anything about the lizardfolk/daegon, and includes a detailed sketch of the one we saw.
+# Visiting [[Ferrin Kastilar]]
+The marshes on the way to Ferrin's grove are misty and humid, a little like the dead marshes from LotR. We follow the charm path on the way there, and arrive without incident.
 
-# Visiting 
+The grove is made up of a ~25m wide circle of large henges, within which the marsh gives way to a wild garden of grass and wildflowers.
+

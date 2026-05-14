@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "de868ee079b50533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ferrin Kastilar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ferrin Kastilar"
+            }
+          },
+          {
             "id": "53895925076595a8",
             "type": "leaf",
             "state": {
@@ -286,8 +310,9 @@
   },
   "active": "5a80c86317371f5b",
   "lastOpenFiles": [
-    "Tiresias.md",
+    "Ferrin Kastilar.md",
     "Session 10 - TBC.md",
+    "Tiresias.md",
     "Tiresias' Inventory.md",
     "Bag of Holding + Slush Fund.md",
     "Saltmarsh Council.md",
@@ -313,7 +338,6 @@
     "The Spirit.md",
     "Bartimeus Haughtlach.md",
     "Uridin Cloudstrider.md",
-    "Smaller Town.md",
     "templates"
   ]
 }
