@@ -30,5 +30,7 @@ Boarding the [[Soul of Winter]] in the morning, amidst the hustle and bustle, we
 
 The party decide to ingratiate themselves with the crew: Agavea helps the crew prep the ship and becomes one of the crowd, Kolinth goes to the kitchens and makes friends with the cook (using mushrooms), and Tiresias with Tenser's Floating Disk.
 
-Tiresias tries to use *detect thoughts* on Garval, but gets nothing back, just like the butler of [[Anders Solomon]].
+Tiresias tries to use *detect thoughts* on Garval, but gets nothing back, just like the butler of [[Anders Solomon]]. He uses Navigator's tools to keep a map of where the ship is going.
+
+According to [[Agevea]], the route we're following isn't one of the known shipping lanes, and we're moving somewhat erratically out into the ocean. Every now and then, [[Garval]] retreats to his cabin and emerges with new directions.
 
