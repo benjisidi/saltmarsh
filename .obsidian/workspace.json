@@ -134,30 +134,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dcbcbd295aeff713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bag of Holding + Slush Fund.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bag of Holding + Slush Fund"
-            }
-          },
-          {
             "id": "35919c81a177ead6",
             "type": "leaf",
             "state": {

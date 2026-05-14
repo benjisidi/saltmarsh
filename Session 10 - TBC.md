@@ -25,4 +25,4 @@ The day before we're due to cast off on the [[Soul of Winter]], we head to the d
 We find [[Aubrey]] in [[The Snapping Line]], and find that the priest's name is [[Garval]] and the captain is [[Old Thom]] (a familiar veteran sailor who passes through a lot). She tells us this is the highest paying, strangest job Gellin has given her. We sell the +1 longsword in the [[Bag of Holding + Slush Fund]] for 250gp. (80 each, 10 for slush fund).
 
 # Setting Sail
-
+Boarding the [[Soul of Winter]] in the morning, amidst the hustle and bustle, we see an austere look
