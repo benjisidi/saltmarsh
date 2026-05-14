@@ -45,4 +45,4 @@ Kolinth spends the day up in the crow's nest, warged into [[Aurora]]. He tries t
 
 As night falls, the surface of the ocean glows softly with a strange phosphorescence. *Detect Magic* suggests it's from the school of evocation.
 
-In the early hours of the morning, Kolinth is standing on the deck, when
+In the early hours of the morning, Kolinth is standing on the deck, when someone goes missing from the deck behind him....
