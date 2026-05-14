@@ -18,4 +18,5 @@ The legends say they were sealed "in the depths" by the first peoples. He counci
 
 On the way back, [[Kolinth]] notices some marginalia in his songbook that he doesn't remember writing... (They *might* be in his own hand? Unclear.)
 # Chatting to Gelin's Crew
-The day before we're due to cast off on the [[Soul of Winter]], we head to the docks and introduce ourselves to [[Aubrey]] the first mate and quartermaster. [[The Snapping Line]]
+The day before we're due to cast off on the [[Soul of Winter]], we head to the docks and introduce ourselves to [[Aubrey]] the first mate and quartermaster. She tells us there's a strange crew manifest - a priest is coming with us (???), and she's been advised to follow his directions to find a missing ship at sea, which we're supposed to then board. 
+
