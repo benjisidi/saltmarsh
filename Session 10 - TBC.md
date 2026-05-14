@@ -16,10 +16,11 @@ Ferrin has heard of the Daegon. The legends say there aren't mythological appari
 
 The legends say they were sealed "in the depths" by the first peoples. He councils us to have empathy for the Daegon, as all creatures have souls - though not all deserve mercy. He also advises us to be very careful in the spirit, and avoid acts of great magic in the grove as the walls here are very thin.
 
-On the way back, [[Kolinth]] notices some marginalia in his songbook that he doesn't remember writing... (They *might* be in his own hand? Unclear.)
-# Chatting to Gelin's Crew
+On the way back, [[Kolinth]] notices some marginalia in his songbook that he doesn't remember writing... (They *might* be in his own hand? Unclear.). He writes *Tale of the Sarcastic Bullfrog*
+# Chatting to Gellin's Crew
 The day before we're due to cast off on the [[Soul of Winter]], we head to the docks and introduce ourselves to [[Aubrey]] the first mate and quartermaster. She tells us there's a strange crew manifest - a priest is coming with us (???), and she's been advised to follow his directions to find a missing ship at sea, which we're supposed to then board.
 
 [[Tiresias]] tries to use *Augery* with the necromancer's runic rib bones, and finds himself sitting opposite the remains of the necromancer in the spirit. He points to a tarot-like card suggesting neither good nor bad outcomes from trying to sweet-talk the crew.
 
 We find [[Aubrey]] in [[The Snapping Line]], and find that the priest's name is [[Garval]] and the captain is [[Old Thom]] (a familiar veteran sailor who passes through a lot). She tells us this is the highest paying, strangest job Gellin has given her.
+

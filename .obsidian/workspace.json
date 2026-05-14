@@ -134,30 +134,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35919c81a177ead6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiresias' Inventory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tiresias' Inventory"
-            }
-          },
-          {
             "id": "dcbcbd295aeff713",
             "type": "leaf",
             "state": {
@@ -180,9 +156,32 @@
               "icon": "lucide-file",
               "title": "Bag of Holding + Slush Fund"
             }
+          },
+          {
+            "id": "35919c81a177ead6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tiresias' Inventory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tiresias' Inventory"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -334,15 +333,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a80c86317371f5b",
+  "active": "dcbcbd295aeff713",
   "lastOpenFiles": [
-    "Tiresias.md",
+    "Tiresias' Inventory.md",
     "Session 10 - TBC.md",
+    "Tiresias.md",
     "Soul of Winter.md",
     "The Snapping Line.md",
     "Bag of Holding + Slush Fund.md",
     "The Ash.md",
-    "Tiresias' Inventory.md",
     "Session 8 - I love remembering Oceanus.md",
     "Ferrin Kastilar.md",
     "Creation Myth.md",
