@@ -38,4 +38,8 @@ Kolinth is inspired by the crew's sea shanties and decides to do some work on *G
 
 In the middle of the night, Garval goes up on deck and gives Aubrey new directions. Agevea has another bestial nightmare during the night.
 
-During his 
+During his meditation, a strange frog-like nymph approaches Tiresias in the spirit. It introduces itself as [[Kaleb]], and says he hasn't visited the lake that Tiresias frequents before. He asks for Tiresias' name and he lies and says Johnothan, as names have power in the spirit. He warns Tiresias not to stay in one place for too long, and then hops into the lake.
+
+# Sailing Day 2
+Kolinth spends the day up in the crow's nest, warged into [[Aurora]]. He tries to divine where we're going, but doesn't find anything of note.
+
