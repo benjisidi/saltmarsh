@@ -12,7 +12,7 @@ Gellin says that he's recently discovered that some of his property (box) is at 
 # The Council
 The council are sending an envoy via boat to the lizardfolk to arrange a meeting on the edge of the marsh as we suggested. Gellin tells them he's contracted us for some shipping work and asks if they're all okay with it.
 # Level-up Downtime
-## Our leads
+## Our Leads
 - Above the speakeasy, one of Gellin's cronies is doing something shady
 - Gellin wants whatever is in the box *badly*
 - Investigate the [[Daegon]]

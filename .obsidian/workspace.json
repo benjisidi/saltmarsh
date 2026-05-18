@@ -127,7 +127,8 @@
               "title": "Anders Solomon"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -280,9 +281,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a80c86317371f5b",
+  "active": "6fd94528ed7e026a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Bag of Holding + Slush Fund.md",
+    "Soul of Winter.md",
+    "Session 10 - TBC.md",
+    "Kolinths Songbook.md",
+    "Ferrin Kastilar.md",
     "Session 9 - TBC.md",
     "Anders Solomon.md",
     "Manistrad Copperlocks.md",
@@ -306,11 +312,6 @@
     "Untitled.base",
     "Session 5 - Can you commit a crime against an animal?.md",
     "Aengus.md",
-    "Saltmarsh.md",
-    "The Spirit.md",
-    "Bartimeus Haughtlach.md",
-    "Uridin Cloudstrider.md",
-    "Smaller Town.md",
     "templates"
   ]
 }

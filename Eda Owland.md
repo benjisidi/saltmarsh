@@ -1,5 +1,5 @@
 # Description
-Big, gruff, human woman. Lots of fisherman's tattoos (all the boats she's been on), short silver hair, lots of earrings, fairly nice clothing. Defacto head of the [[Saltmarsh Council]]. Stubborn, but quick to help those in need. Very much Saltmarsh-first in her outlook.
+Big, gruff, human woman. Lots of fisherman's tattoos (all the boats she's been on), short silver hair, lots of earrings, fairly nice clothing. Defacto head of the [[Saltmarsh Council]]. Stubborn, but quick to help those in need. Very much Saltmarsh-first in her outlook. Well respected in the town, sort of like a union boss. Rich in friends, but less so in gold.
 # Location
 Sometimes found in the [[The Snapping Line]]
 # Additional Notes

@@ -1,0 +1,5 @@
+- A really bad song about rabbits
+- Gellin is a Sea Prince (work in progress - great music, *so* catchy, not subtle at all)
+- Gellin is a Sea Prince V2 (sea shanty edition - slightly more subtle)
+- Incredible song about Bug the Frog (jazzy - improvisational feel)
+-
