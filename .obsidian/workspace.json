@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -314,7 +314,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf6d15e28a00f248",
+  "active": "511a1c532673517c",
   "lastOpenFiles": [
     "Session 11 - Just A Standard Bilge.md",
     "Tiresias' Inventory.md",
