@@ -16,6 +16,8 @@ The ship is *big* - it looks like a large transport ship; a bit too big to be a 
 
 [[Garval]] tells [[Aubrey]] to weigh anchor 500ft from the ship, and we make ready to proceed in a small boat. Tiresias casts *augry* again and has a horrible experience being pulled to the bottom of the ocean, under which the remains of the necromancer is waiting. He gets *woe*.
 
+Tiresias uses *detect thoughts* as we approach the ship, and notices there's several living things inside, but they're not consciousnesses like other intelligent creatures. He also notices it's a little too easy to touch the spirit here: it's almost like the boat is partially in it. Garval seems tense as we board the ship.
+
 
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
