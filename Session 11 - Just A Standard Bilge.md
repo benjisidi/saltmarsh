@@ -11,7 +11,7 @@ Tiresias spends the next day sketching the daegon from memory, and uses *compreh
 Tensions are high on the ship. Kolinth tries composing a song to raise everyone's spirits, but they don't seem up for it. It's a hot, heavy day and a brawl breaks out on the deck. Agavea breaks it up with some booming words in giant (*don't blood your axe*) - she backs up Aubrey's authority when challenged. The crew are kept busy for the rest of the day.
 
 In the evening, Kolinth gets a handful of gambling games going in the evening, which raises spirits considerably. We do a show on the deck and teach the crew some of the lore of the [[Silverstand Grove]].
-# The Sinking Ship
+# Emperor of the Waves
 The ship is *big* - it looks like a large transport ship; a bit too big to be a merchant vessel, must have belonged to a nation state at some point. It's badly damaged: the masts are snapped off and missing, and it's listing heavily. The top deck is damaged and it's sinking slowly. Everything's been battened down as if for a storm. The huge gouges in the deck can't have been made by the storm, this ship must have been attacked.
 
 [[Garval]] tells [[Aubrey]] to weigh anchor 500ft from the ship, and we make ready to proceed in a small boat. Tiresias casts *augry* again and has a horrible experience being pulled to the bottom of the ocean, under which the remains of the necromancer is waiting. He gets *woe*.
