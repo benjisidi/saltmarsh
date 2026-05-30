@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "bf6d15e28a00f248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 11 - TBC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 11 - TBC"
+            }
+          },
+          {
             "id": "9ff7f8595d4ef89e",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "Kolinths Songbook"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b67814978c014535",
+  "active": "bf6d15e28a00f248",
   "lastOpenFiles": [
-    "Kolinths Songbook.md",
     "Session 10 - The Spirit, it's fine.md",
+    "Session 11 - TBC.md",
+    "Kolinths Songbook.md",
     "Session 9 - Gellin for Breakfast.md",
     "Anders Solomon.md",
     "Saltmarsh Council.md",
@@ -236,7 +262,6 @@
     "Untitled 1.base",
     "Untitled.base",
     "Session 5 - Can you commit a crime against an animal?.md",
-    "Aengus.md",
     "templates"
   ]
 }
