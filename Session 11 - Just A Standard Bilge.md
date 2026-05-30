@@ -12,6 +12,7 @@ Tensions are high on the ship. Kolinth tries composing a song to raise everyone'
 
 In the evening, Kolinth gets a handful of gambling games going in the evening, which raises spirits considerably. We do a show on the deck 
 
-# 
+# Arrival
+The ship is *big* - it looks like a large transport ship; a bit too big to be a merchant vessel, must have belonged to a nation state at some point. It's badly damaged: the masts are snapped off and missing, and it's listing heavily. The top deck is damaged and it's sinking slowly. Everything's been battened down as if for a storm. The huge rents in the deck can't have been made by the storm, this ship
 # Executive Summary
 At the end of the session, recap what's happened for easy re-reading
