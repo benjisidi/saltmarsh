@@ -150,6 +150,16 @@
               "icon": "lucide-file",
               "title": "Kolinths Songbook"
             }
+          },
+          {
+            "id": "f57ac1fcff2cbda9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 1
@@ -306,10 +316,10 @@
   },
   "active": "bf6d15e28a00f248",
   "lastOpenFiles": [
+    "Session 11 - Just A Standard Bilge.md",
     "Tiresias' Inventory.md",
     "Tiresias Notebook.md",
     "Session 10 - The Spirit, it's fine.md",
-    "Session 11 - Just A Standard Bilge.md",
     "Kolinths Songbook.md",
     "Silverstand Grove.md",
     "Session 9 - Gellin for Breakfast.md",

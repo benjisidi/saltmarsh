@@ -19,8 +19,8 @@ The ship is *big* - it looks like a large transport ship; a bit too big to be a 
 Tiresias uses *detect thoughts* as we approach the ship, and notices there's several living things inside, but they're not consciousnesses like other intelligent creatures. He also notices it's a little too easy to touch the spirit here: it's almost like the boat is partially in it. Garval seems tense as we board the ship.
 # The Dark Jungle
 The party gathers on the deck of the ship and locate a hatch leading downwards which locked from the inside. [[Tiresias]] fey steps through but goes to far and falls to the floor where he discovers the inside of the ship is filled with tropical jungle.
-
-## What we know about the box
+# Saltmarsh
+## What We Know about the Box
 - Lots of abjuration magic layered on it by Garval
 	- Something is dark on every lens when viewed with detect magic - some sort of antimagic layer
 - Garval *will* die rather than tell us what's in the box
@@ -30,6 +30,7 @@ The party gathers on the deck of the ship and locate a hatch leading downwards w
 - What was the banded orb for
 - Why was the Kraken all messed up
 - Why was the [[Emperor of the Waves]] there
+	- Can we find a manifest from the place it made berth from?
 - How did [[Gellin Primewater]] know the [[Emperor of the Waves]] there - how did [[Garval]] find it
 - What order is [[Garval]] a part of
 # Executive Summary
