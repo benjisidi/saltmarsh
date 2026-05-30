@@ -78,9 +78,19 @@
               "icon": "lucide-file",
               "title": "Kolinths Songbook"
             }
+          },
+          {
+            "id": "511a1c532673517c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,10 +241,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf6d15e28a00f248",
+  "active": "511a1c532673517c",
   "lastOpenFiles": [
-    "Session 10 - The Spirit, it's fine.md",
     "Session 11 - Just A Standard Bilge.md",
+    "Session 10 - The Spirit, it's fine.md",
     "Kolinths Songbook.md",
     "Silverstand Grove.md",
     "Session 9 - Gellin for Breakfast.md",
