@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sea prince ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,8 +181,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -280,7 +279,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf6d15e28a00f248",
+  "active": "b6674e00699f5da5",
   "lastOpenFiles": [
     "Session 10 - The Spirit, it's fine.md",
     "Session 11 - Just A Standard Bilge.md",
