@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,13 +304,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68a54619825d1dcc",
+  "active": "bf6d15e28a00f248",
   "lastOpenFiles": [
+    "Tiresias' Inventory.md",
     "Tiresias Notebook.md",
     "Session 10 - The Spirit, it's fine.md",
     "Session 11 - Just A Standard Bilge.md",
     "Kolinths Songbook.md",
-    "Tiresias' Inventory.md",
     "Silverstand Grove.md",
     "Session 9 - Gellin for Breakfast.md",
     "Anders Solomon.md",
