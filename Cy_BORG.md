@@ -13,4 +13,4 @@ We make it to Amethyst's penthouse, and it is opulent: there's *real plants* her
 
 Amethyst has a studio called the [[Orbital Lounge]]
 
-[[Leecia Feels]] has programs made by [[S8GAN]] 
+[[Leecia Feels]] has programs made by hacker [[S8GAN]] used for cloning chips. They won't run on the flat network due to insufficient power.
