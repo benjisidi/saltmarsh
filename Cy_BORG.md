@@ -9,4 +9,4 @@ We make it to Amethyst's penthouse, and it is opulent: there's *real plants* her
 
 [[Leecia Feels]] - one of Amethyst's old love affairs, turned bodyguard
 
-[[Comm Badger]]
+[[Comm Badger]] is the elevator guy, there to stop rabid fans getting access to the building.
