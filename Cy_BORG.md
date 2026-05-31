@@ -8,3 +8,5 @@ We kill one of the brothers four outside the club, and hack a billboard to misle
 We make it to Amethyst's penthouse, and it is opulent: there's *real plants* here! 
 
 [[Leecia Feels]] - one of Amethyst's old love affairs, turned bodyguard
+
+[[Comm Badger]]
