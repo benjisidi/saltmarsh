@@ -6,3 +6,5 @@ We notice [[Chromatica Darling]] skulking in a corner. She was dating one of the
 We kill one of the brothers four outside the club, and hack a billboard to mislead a bunch of the goons looking for Amethyst
 
 We make it to Amethyst's penthouse, and it is opulent: there's *real plants* here! 
+
+[[Leecia Feels]] - one of Amethyst's old love affairs, turned bodyguard
