@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9da089faa01503f7",
+        "id": "db02ebbad1bdb84f",
         "type": "tabs",
         "children": [
           {
-            "id": "b67814978c014535",
+            "id": "3a55676d83ad53f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 10 - The Spirit, it's fine.md",
+                "file": "Cy_BORG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,107 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 10 - The Spirit, it's fine"
-            }
-          },
-          {
-            "id": "bf6d15e28a00f248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 11 - Just A Standard Bilge.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 11 - Just A Standard Bilge"
-            }
-          },
-          {
-            "id": "89e5c2d71b0a6298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiresias Notebook.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tiresias Notebook"
-            }
-          },
-          {
-            "id": "511a1c532673517c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kolinths Songbook.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Kolinths Songbook"
-            }
-          },
-          {
-            "id": "68a54619825d1dcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tiresias' Inventory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tiresias' Inventory"
+              "title": "Cy_BORG"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766
+    "width": 329.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -279,10 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6674e00699f5da5",
+  "active": "3a55676d83ad53f8",
   "lastOpenFiles": [
-    "Session 10 - The Spirit, it's fine.md",
     "Session 11 - Just A Standard Bilge.md",
+    "Cy_BORG.md",
+    "Session 10 - The Spirit, it's fine.md",
     "Tiresias Notebook.md",
     "Kolinths Songbook.md",
     "Tiresias' Inventory.md",
@@ -307,7 +212,6 @@
     "Session 1 - Big Scary House.md",
     "Ludenham.md",
     "Woven Thread.md",
-    "Eliander Fireborn.md",
     "Untitled 1.base",
     "Untitled.base",
     "templates"
