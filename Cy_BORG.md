@@ -12,3 +12,5 @@ We make it to Amethyst's penthouse, and it is opulent: there's *real plants* her
 [[Comm Badger]] is the elevator guy, there to stop rabid fans getting access to the building.
 
 Amethyst has a studio called the [[Orbital Lounge]]
+
+[[Leecia Feels]] has programs made by [[S8GAN]] 
