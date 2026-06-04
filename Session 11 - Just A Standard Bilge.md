@@ -19,6 +19,7 @@ The ship is *big* - it looks like a large transport ship; a bit too big to be a 
 Tiresias uses *detect thoughts* as we approach the ship, and notices there's several living things inside, but they're not consciousnesses like other intelligent creatures. He also notices it's a little too easy to touch the spirit here: it's almost like the boat is partially in it. Garval seems tense as we board the ship.
 # The Dark Jungle
 The party gathers on the deck of the ship and locate a hatch leading downwards which locked from the inside. [[Tiresias]] fey steps through but goes to far and falls to the floor where he discovers the inside of the ship is filled with tropical jungle.
+
 # Saltmarsh
 ## What We Know about the Box
 - Lots of abjuration magic layered on it by Garval

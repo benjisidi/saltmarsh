@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cy_BORG.md",
+                "file": "Session 11 - Just A Standard Bilge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cy_BORG"
+              "title": "Session 11 - Just A Standard Bilge"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766,
-    "collapsed": true
+    "width": 329.50418853759766
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -185,8 +184,8 @@
   },
   "active": "3a55676d83ad53f8",
   "lastOpenFiles": [
-    "Session 11 - Just A Standard Bilge.md",
     "Cy_BORG.md",
+    "Session 11 - Just A Standard Bilge.md",
     "Session 10 - The Spirit, it's fine.md",
     "Tiresias Notebook.md",
     "Kolinths Songbook.md",
