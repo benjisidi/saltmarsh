@@ -4,3 +4,7 @@ Following the receipt of [[The Wizard Sanbalets Note]], we stop off at [[Curtly]
 
 Eventually we come upon a steep path, set into a small wooded ravine. On our way up, we pass some *magic mouth* runes shouting "Nyahh, you fools! This is your doom!"
 
+
+
+# Aftermath
+Sanbalet has several grubby notes on him, as does the hobgoblin captain. They're in goblin, and seem to be bonds
