@@ -43,11 +43,4 @@ Garval and the box get picked up by a welcome party before we get all the way to
 - How did [[Gellin Primewater]] know the [[Emperor of the Waves]] there - how did [[Garval]] find it
 - What order is [[Garval]] a part of
 
-We get drunk with the crew and [[Agevea]] loses a drinking contest to [[Eda Owland]] again. We have a long rest, and in the morning [[Brian the Elder]] knocks on our door and lets us know that someone has taken [[Brian the Younger]]! He's carrying a note....
-
-*To Duncan's Head, with no delay
-Your fecless selves must head this day
-Tarry not and bring no help
-or woe betide this rotten whelp
-I warned you well, did I not I say?
-FEAR THE WIZARD SANBALET*
+We get drunk with the crew and [[Agevea]] loses a drinking contest to [[Eda Owland]] again. We have a long rest, and in the morning [[Brian the Elder]] knocks on our door and lets us know that someone has taken [[Brian the Younger]]! He's carrying a note... [[The Wizard Sanbalets Note]]

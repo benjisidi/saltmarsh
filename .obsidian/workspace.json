@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db02ebbad1bdb84f",
+        "id": "1fa74c26a42545e3",
         "type": "tabs",
         "children": [
           {
-            "id": "3a55676d83ad53f8",
+            "id": "a8c06c0726d215eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sea Princes Logbook.md",
+                "file": "Session 12 - TBC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sea Princes Logbook"
+              "title": "Session 12 - TBC"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,13 +182,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a55676d83ad53f8",
+  "active": "a8c06c0726d215eb",
   "lastOpenFiles": [
+    "The Wizard Sanbalets Note.md",
+    "Session 12 - TBC.md",
+    "Session 11 - Just A Standard Bilge.md",
+    "Sea Princes Logbook.md",
     "Session 4 - Tertiated.md",
     "The Wizard Sanbalet.md",
-    "Sea Princes Logbook.md",
     "Session 3 - The Wizard Sanbalet.md",
-    "Session 11 - Just A Standard Bilge.md",
     "Cy_BORG.md",
     "Session 10 - The Spirit, it's fine.md",
     "Tiresias Notebook.md",
@@ -210,8 +211,6 @@
     "Session 7 - Boss Nass Fiasco.md",
     "Session 8 - I love remembering Oceanus.md",
     "Untitled 2.base",
-    "Myths one-shot.md",
-    "Creation Myth.md",
     "Untitled 1.base",
     "Untitled.base",
     "templates"
