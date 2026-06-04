@@ -24,7 +24,9 @@ The party gathers on the deck of the ship and locate a hatch leading downwards w
 
 Garval's spell burns away the jungle around us and we quickly find the hatch to the bottom deck. We find a strange scene there. A decrepit man, spread-eagled on the floor, is stretched out with his fingertips of each hand on two objects: a box covered in runes, and an orb made of some sort of golden metal.
 
-He sees us arrive and 
+He sees us arrive and says "thank the gods" to Garval and dies. As he does, the orb slips out of his hand and bounces down into the depths of the ship. As soon as that happens, there's a huge thump as something attacks the bottom of the ship. Garval grabs the chest and begins to cast a spell. The jungle grows through the expired monk/priest guy and he forms into a treant. We flee and get out of the ship, pursued by the treant and all almost die. The beast tearing the ship apart turns out to be some sort of giant squid like monster with many, many tiny appendages growing off its tentacles. It seemed to be after the orb.
+# The journey back
+[[Garval]] has to spend the entire journey back concentrating on his spell, and says we will all die if he doesn't. We try various differ
 
 # Saltmarsh
 ## What We Know about the Box
