@@ -1,4 +1,4 @@
-[[The Wizard Sambalet]]'s handwriting is *terrible*. He refers to himself in the 3rd person.
+[[The Wizard Sanbalet]]'s handwriting is *terrible*. He refers to himself in the 3rd person.
 - The ship comes monthly
 - The system:
 	- Incoming ship signals [[Bracksmore]]

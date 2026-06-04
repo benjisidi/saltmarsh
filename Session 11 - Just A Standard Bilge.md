@@ -48,4 +48,6 @@ We get drunk with the crew and [[Agevea]] loses a drinking contest to [[Eda Owla
 *To Duncan's Head, with no delay
 Your fecless selves must head this day
 Tarry not and bring no help
-or woe betide this rotten w*
+or woe betide this rotten whelp
+I warned you well, did I not I say?
+FEAR THE WIZARD SANBALET*

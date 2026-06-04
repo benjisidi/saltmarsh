@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 11 - Just A Standard Bilge.md",
+                "file": "Sea Princes Logbook.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 11 - Just A Standard Bilge"
+              "title": "Sea Princes Logbook"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sambalet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766,
-    "collapsed": true
+    "width": 329.50418853759766
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -186,8 +185,12 @@
   },
   "active": "3a55676d83ad53f8",
   "lastOpenFiles": [
-    "Cy_BORG.md",
+    "Session 4 - Tertiated.md",
+    "The Wizard Sanbalet.md",
+    "Sea Princes Logbook.md",
+    "Session 3 - The Wizard Sanbalet.md",
     "Session 11 - Just A Standard Bilge.md",
+    "Cy_BORG.md",
     "Session 10 - The Spirit, it's fine.md",
     "Tiresias Notebook.md",
     "Kolinths Songbook.md",
@@ -209,10 +212,6 @@
     "Untitled 2.base",
     "Myths one-shot.md",
     "Creation Myth.md",
-    "The Ash.md",
-    "Session 1 - Big Scary House.md",
-    "Ludenham.md",
-    "Woven Thread.md",
     "Untitled 1.base",
     "Untitled.base",
     "templates"
