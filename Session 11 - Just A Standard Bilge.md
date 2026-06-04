@@ -22,7 +22,9 @@ The party gathers on the deck of the ship and locate a hatch leading downwards w
 
 [[Agevea]] smashes the hatch and the rest of the party follow. There are faeries in the lower deck of the ship, which are extremely quick and attack us with tiny tiny weapons. Eventually [[Garval]] cast weird heat spirit guardians and explodes the faeries (why didn't just do this to start with? what a dick).
 
+Garval's spell burns away the jungle around us and we quickly find the hatch to the bottom deck. We find a strange scene there. A decrepit man, spread-eagled on the floor, is stretched out with his fingertips of each hand on two objects: a box covered in runes, and an orb made of some sort of golden metal.
 
+He sees us arrive and 
 
 # Saltmarsh
 ## What We Know about the Box
