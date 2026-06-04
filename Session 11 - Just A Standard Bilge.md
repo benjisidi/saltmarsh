@@ -2,7 +2,7 @@ Created Date: 2026-05-30
 # The Daegon
 Daegon attack the ship! They don't seem to be expecting to run into much resistance and after we kill a few of them, they take the bodies of their fallen and retreat back into the ocean - this felt like a raid rather than an animalistic attack. Partway through, we hear a deep, booming voice from below speaking in a clicking language we don't understand. Neither [[Aubrey]] nor [[Old Thom]] has seen anything like them before.
 
-During the melee, they seem to be gently being pulled backwards off the ship, as if their gravity points in a slightly different direction to ours. Their skin seems to have runes carved into them, and they have a strange, black ichorous liquid dripping off them. They seem to get bloodlust around injured creatures.
+During the melee, they seem to be gently being pulled backwards off the ship, as if their gravity points in a slightly different direction to ours. Their skin seems to have runes carved into them, and they have a strange, black ichorous liquid dripping off them. They seem to get bloodlust around injured creatures. As they attacked, the water around our ship was teeming with sharks and other predatory sea creatures.
 
 Agavea continues to have violent, bestial dreams. Tiresias notices something's been near his lake in the spirit.
 # A Tense Day
@@ -20,7 +20,9 @@ Tiresias uses *detect thoughts* as we approach the ship, and notices there's sev
 # The Dark Jungle
 The party gathers on the deck of the ship and locate a hatch leading downwards which locked from the inside. [[Tiresias]] fey steps through but goes to far and falls to the floor where he discovers the inside of the ship is filled with tropical jungle.
 
-[[Agevea]] smashes the hatch and the rest of the party follow. There are faeries in the lower deck of the ship, which are extremely quick and attack us with tiny tiny weapons. 
+[[Agevea]] smashes the hatch and the rest of the party follow. There are faeries in the lower deck of the ship, which are extremely quick and attack us with tiny tiny weapons. Eventually [[Garval]] cast weird heat spirit guardians and explodes the faeries (why didn't just do this to start with? what a dick).
+
+
 
 # Saltmarsh
 ## What We Know about the Box
