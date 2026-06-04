@@ -20,6 +20,8 @@ Tiresias uses *detect thoughts* as we approach the ship, and notices there's sev
 # The Dark Jungle
 The party gathers on the deck of the ship and locate a hatch leading downwards which locked from the inside. [[Tiresias]] fey steps through but goes to far and falls to the floor where he discovers the inside of the ship is filled with tropical jungle.
 
+[[Agevea]] smashes the hatch and the rest of the party follow. There are faeries in the lower deck of the ship, which are extremely quick and attack us with tiny tiny weapons. 
+
 # Saltmarsh
 ## What We Know about the Box
 - Lots of abjuration magic layered on it by Garval
