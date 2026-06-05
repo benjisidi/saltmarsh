@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Session 12 - TBC"
             }
+          },
+          {
+            "id": "e3b2c7ccff2c918a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8c06c0726d215eb",
+  "active": "e3b2c7ccff2c918a",
   "lastOpenFiles": [
-    "Untitled 2.md",
     "Session 12 - TBC.md",
+    "Untitled 2.md",
     "Duncan's Head.md",
     "Curtly.md",
     "The Wizard Sanbalets Note.md",
