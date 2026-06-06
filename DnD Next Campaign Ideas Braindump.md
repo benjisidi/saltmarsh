@@ -1,0 +1,8 @@
+- Sabriel/Old Kingdom
+	- Big wall
+	- Necromancy
+	- Very scary pseudo-demonic undead
+		- Draw from Bartemius trilogy too
+	- A multi-layered realm of the dead
+		- Thief of time style
+	- 
