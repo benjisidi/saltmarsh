@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f9baf790aa637c74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kolinths Songbook.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kolinths Songbook"
+            }
+          },
+          {
             "id": "8089e140522b4c9a",
             "type": "leaf",
             "state": {
@@ -236,9 +260,9 @@
   },
   "active": "e8c7af08ae8f1d77",
   "lastOpenFiles": [
-    "Bag of Holding + Slush Fund.md",
-    "Session 13 -.md",
     "Kolinths Songbook.md",
+    "Session 13 -.md",
+    "Bag of Holding + Slush Fund.md",
     "Session 10 - The Spirit, it's fine.md",
     "Ludenham.md",
     "Session 12 - Gellin Worse And Worse (The Wizard Sanbalet Story).md",

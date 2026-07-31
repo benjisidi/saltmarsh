@@ -4,3 +4,4 @@
 - Incredible song about Bug the Frog (jazzy - improvisational feel)
 - Emptying the Emperor about the events on [[Emperor of the Waves]] *Too crammed with information, not a good tune. Does tell all the details of the story.*
 - The Great esCape *Real good, has the story of us escaping from the Emperor of the Waves*
+- TBC *Tiresias is immune to arrows*

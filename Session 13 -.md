@@ -24,4 +24,6 @@ Summary:
 	- 500gp
 	- After that, killem all (pending)
 - He's thrown us the party because it's great PR being associated with us
-# Shopping
+# Cape Time
+# The Party
+
