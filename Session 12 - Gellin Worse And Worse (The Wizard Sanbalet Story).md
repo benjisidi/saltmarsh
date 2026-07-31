@@ -6,3 +6,4 @@ Eventually we come upon a steep path, set into a small wooded ravine. On our way
 # Aftermath
 Sanbalet has several grubby notes on him, as does the hobgoblin captain. They're in goblin, and seem to be bonds of some kind. They say:
 *This individual carries the authority of the Goblin King of <KINGDOM NAME<.*
+- This is weird - wouldn't normally associate this formal tone with hobgoblins.
