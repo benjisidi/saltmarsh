@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Session 13 -"
             }
+          },
+          {
+            "id": "7d2771f365f9b252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 10 - The Spirit, it's fine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 10 - The Spirit, it's fine"
+            }
           }
         ]
       }
@@ -65,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "daegon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,11 +110,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766
+    "width": 329.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -186,15 +212,15 @@
   },
   "active": "e8c7af08ae8f1d77",
   "lastOpenFiles": [
-    "Session 12 - Gellin Worse And Worse (The Wizard Sanbalet Story).md",
-    "Session 13 -.md",
-    "Ye Secret of Ye Philosopher's Stone.md",
-    "Session 11 - Just A Standard Bilge.md",
-    "Anders Solomon.md",
     "Session 10 - The Spirit, it's fine.md",
+    "Session 13 -.md",
+    "Session 12 - Gellin Worse And Worse (The Wizard Sanbalet Story).md",
+    "Session 11 - Just A Standard Bilge.md",
+    "Session 9 - Gellin for Breakfast.md",
+    "Ye Secret of Ye Philosopher's Stone.md",
+    "Anders Solomon.md",
     "Untitled 3.base",
     "The Spirit.md",
-    "Session 9 - Gellin for Breakfast.md",
     "Session 8 - I love remembering Oceanus.md",
     "Session 7 - Boss Nass Fiasco.md",
     "DnD Next Campaign Ideas Braindump.md",
