@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e60f5ac6593a835",
+        "id": "dbfa876688c2eb63",
         "type": "tabs",
         "children": [
           {
-            "id": "04d4d54a476c9992",
+            "id": "9f7b5c2a82bbd9e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Session 12 - Gellin Worse And Worse (The Wizard Sanbalet Story)"
             }
+          },
+          {
+            "id": "e8c7af08ae8f1d77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 13 -.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 13 -"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,15 +209,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6674e00699f5da5",
+  "active": "e8c7af08ae8f1d77",
   "lastOpenFiles": [
+    "Session 12 - Gellin Worse And Worse (The Wizard Sanbalet Story).md",
+    "Session 13 -.md",
+    "Ye Secret of Ye Philosopher's Stone.md",
     "Session 11 - Just A Standard Bilge.md",
     "Anders Solomon.md",
     "Session 10 - The Spirit, it's fine.md",
     "Untitled 3.base",
     "The Spirit.md",
     "Session 9 - Gellin for Breakfast.md",
-    "Session 12 - Gellin Worse And Worse (The Wizard Sanbalet Story).md",
     "Session 8 - I love remembering Oceanus.md",
     "Session 7 - Boss Nass Fiasco.md",
     "DnD Next Campaign Ideas Braindump.md",
@@ -211,7 +238,6 @@
     "Saltmarsh Council.md",
     "Tiresias.md",
     "Bag of Holding + Slush Fund.md",
-    "conflict-files-obsidian-git.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
