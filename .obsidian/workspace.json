@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 11 - Just A Standard Bilge.md",
+                "file": "Session 12 - Gellin Worse And Worse (The Wizard Sanbalet Story).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 11 - Just A Standard Bilge"
+              "title": "Session 12 - Gellin Worse And Worse (The Wizard Sanbalet Story)"
             }
           }
         ]
@@ -184,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04d4d54a476c9992",
+  "active": "b6674e00699f5da5",
   "lastOpenFiles": [
-    "Session 10 - The Spirit, it's fine.md",
     "Session 11 - Just A Standard Bilge.md",
+    "Anders Solomon.md",
+    "Session 10 - The Spirit, it's fine.md",
     "Untitled 3.base",
     "The Spirit.md",
     "Session 9 - Gellin for Breakfast.md",
@@ -207,7 +208,6 @@
     "Kolinths Songbook.md",
     "Tiresias' Inventory.md",
     "Silverstand Grove.md",
-    "Anders Solomon.md",
     "Saltmarsh Council.md",
     "Tiresias.md",
     "Bag of Holding + Slush Fund.md",

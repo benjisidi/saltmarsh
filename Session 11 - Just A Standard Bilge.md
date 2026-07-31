@@ -33,14 +33,16 @@ Garval and the box get picked up by a welcome party before we get all the way to
 - Lots of abjuration magic layered on it by Garval
 	- Something is dark on every lens when viewed with detect magic - some sort of antimagic layer
 - Garval *will* die rather than tell us what's in the box
+- Banded with golden seals, one of which is broken
 - Nothing conscious within the box
 ## Questions
-- What's in the box
-- What was the banded orb for
-- Why was the Kraken all messed up
-- Why was the [[Emperor of the Waves]] there
+- What's in the box?
+- What was the banded orb for?
+	- Why do the bands match those sealing the box?
+- Why was the Kraken all messed up?
+- Why was the [[Emperor of the Waves]] there?
 	- Can we find a manifest from the place it made berth from?
-- How did [[Gellin Primewater]] know the [[Emperor of the Waves]] there - how did [[Garval]] find it
-- What order is [[Garval]] a part of
+- How did [[Gellin Primewater]] know the [[Emperor of the Waves]] there - how did [[Garval]] find it?
+- What order is [[Garval]] a part of?
 
 We get drunk with the crew and [[Agevea]] loses a drinking contest to [[Eda Owland]] again. We have a long rest, and in the morning [[Brian the Elder]] knocks on our door and lets us know that someone has taken [[Brian the Younger]]! He's carrying a note... [[The Wizard Sanbalets Note]]
