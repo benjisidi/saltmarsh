@@ -18,5 +18,12 @@ Summary:
 	- One of the tasks was transporting the lizardfolk weapons from [[Ludenham]]
 	- He was supposed to transport the box from [[Ludenham]] to [[Saltmarsh]], but the [[Emperor of the Waves]] got wrecked
 	- When he failed it got scary and they said they'd send one of their own people to bring it back and he should provide escort
-- They 
+	- They're currently keeping tabs on him through his network, he thinks
+- He wants to work with us because he sees them a mutual enemy
+	- Wants to hire us to find out who they are and where they're based
+	- 500gp
+	- After that, killem all (pending)
+- He's thrown us the party because it's great PR being associated with us
+
+# Shopping
 
