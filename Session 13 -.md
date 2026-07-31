@@ -11,4 +11,4 @@ We burn the bodies on [[Duncan's Head]] and take the Brians to brunch, near the 
 # Gellin
 We decide to go and claim our payment from [[Gellin Primewater]]. They're prepping for a party, despite it not having been too long since the last one. Apparently he's throwing it for *us*???
 
-We ask Gelin
+Gellin tells us he wants to hear about the trip, confusingly. He says he got [[Garval]] through a third party, and doesn't know much about what has come to pass.
