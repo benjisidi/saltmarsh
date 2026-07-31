@@ -26,7 +26,8 @@ Summary:
 - He's thrown us the party because it's great PR being associated with us
 # Cape Time
 # The Party
-
 # Interrogating the Butlers
 - Part of the Flame Below
 - Anders is a puppet
+- Serves Skerrin (the butler)
+- Armed the lizardfolk to spread chaos
