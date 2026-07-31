@@ -23,5 +23,6 @@
 | 183.5  | Mollywog spoils                                                 |
 | 189.6  | Lizardfolk city adventurer's backpack                           |
 | 289.9  | Payment for [[Session 7 - Boss Nass Fiasco]]                    |
+| 439.9  | Payment for [[Session 11 - Just A Standard Bilge]]              |
 # Grimoire Sketches
 - Two lizardfolk performing a ritual over the dead body of the Thousandtooth
