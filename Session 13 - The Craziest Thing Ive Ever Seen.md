@@ -27,3 +27,6 @@ Summary:
 # Cape Time
 # The Party
 
+# Interrogating the Butlers
+- Part of the Flame Below
+- Anders is a puppet
